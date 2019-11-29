@@ -1,0 +1,3248 @@
+{
+    "status": "SUCCESS",
+    "responseMap": {
+      "ValueJson": {
+        "phenomKanban": {
+          "kanbanList": [
+            {
+              "uniqueKey": "UK_37296_4695391",
+              "technologyFlex": [
+                "VOIP (vUSP-vVoLTE)"
+              ],
+              "prtechnologyFlex": [
+                "VOIP (vUSP-vVoLTE)"
+              ],
+              "crtechnologyFlex": [
+                "VOIP (vUSP-vVoLTE)"
+              ],
+              "role": "GNO-NRC-VOIP-vAPPS",
+              "approverRolesList": [
+                "GNO-NRC-VOIP-vAPPS",
+                null
+              ],
+              "approverSignatureList": [
+                "",
+                null
+              ],
+              "approverSignatureStatus": [
+                "Pending",
+                null
+              ],
+              "approvalStatus": "Pending Approval",
+              "category": "VOIP",
+              "type": "D2.0",
+              "item": "TEST CR (IGNORE)",
+              "summary": "AIC-S,test fuzzy search:No Cust. & No Prov. Impact",
+              "plannedStartDate": "1548146100",
+              "plannedEndDate": "1548664620",
+              "assigneeGroup": "GNO-NRC-VOIP-vAPPS",
+              "changeId": "CHG000004695391",
+              "createdDate": "1546850264",
+              "apprec": [
+                {
+                  "role": "GNO-NRC-VOIP-vAPPS",
+                  "signatureStatus": "Pending"
+                },
+                {}
+              ],
+              "attId": "5c330f5e2b1dbf0abe5ad151",
+              "createdBy": "ja660w",
+              "changeID": "CHG000004695391",
+              "cRStatus": "Assigned",
+              "cRApprovalStatus": "Pending Approval",
+              "mopOwner": "ja660w",
+              "workDescription": "fdsgdbdb",
+              "draftCRCRRequestor": "ja660w",
+              "prId": "PR0037296",
+              "targetSubmitDate": "1547714100",
+              "approverSignature": "",
+              "gMOP": "No",
+              "workType": "Netbackup installation",
+              "impactedGroup": [
+                "None"
+              ],
+              "additionalGroup": [],
+              "assetListFlex": [
+                "fsfdfdg"
+              ],
+              "colorCodingMap": {
+                "plannedStartDate": "assigntarget",
+                "cRStatus": "assigned",
+                "changeId": "pendappf",
+                "plannedEndDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "mopOwner": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "assigneeConcat": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "changeId": "https://aotswcj.test.att.com:14300/arsys/servlet/ViewFormServlet?form=CHG%3AChange&server=AOTSCM14200&eid="
+              },
+              "domain": "D2.0",
+              "listZoneSelected": [
+                "2"
+              ],
+              "listServiceAffectedAll": [
+                "AT&T SmBVoIP",
+                "AT&T VoLTE"
+              ],
+              "changeIdentifierSelected": [
+                "AIC-S"
+              ],
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "dataCentreCode": [
+                "AMS1"
+              ],
+              "assigneeConcat": [],
+              "draftCRCRRequestorWithOutURI": "ja660w",
+              "mopOwnerWithOutURI": "ja660w",
+              "assigneeWithOutURI": ""
+            },
+            {
+              "uniqueKey": "UK_37298_4695393",
+              "technologyFlex": [
+                "VOIP (vUSP-vVoLTE)"
+              ],
+              "prtechnologyFlex": [
+                "VOIP (vUSP-vVoLTE)"
+              ],
+              "crtechnologyFlex": [
+                "VOIP (vUSP-vVoLTE)"
+              ],
+              "role": "GNO-NRC-VOIP-vAPPS",
+              "approverRolesList": [
+                "GNO-NRC-VOIP-vAPPS",
+                null
+              ],
+              "approverSignatureList": [
+                "",
+                null
+              ],
+              "approverSignatureStatus": [
+                "Pending",
+                null
+              ],
+              "approvalStatus": "Pending Approval",
+              "category": "VOIP",
+              "type": "D2.0",
+              "item": "TEST CR (IGNORE)",
+              "summary": "AIC-S,test fuzzy search:No Cust. & No Prov. Impact",
+              "plannedStartDate": "1548837900",
+              "plannedEndDate": "1549097220",
+              "assigneeGroup": "GNO-NRC-VOIP-vAPPS",
+              "changeId": "CHG000004695393",
+              "closureCode": "Cancelled",
+              "createdDate": "1546850872",
+              "lastModifiedDate": "1546851646",
+              "apprec": [
+                {
+                  "role": "GNO-NRC-VOIP-vAPPS",
+                  "signatureStatus": "Pending"
+                },
+                {}
+              ],
+              "attId": "5c3311be2b1dbf0abe5ad17e",
+              "createdBy": "ja660w",
+              "changeID": "CHG000004695393",
+              "cRStatus": "Cancelled",
+              "cRApprovalStatus": "Pending Approval",
+              "mopOwner": "ja660w",
+              "workDescription": "updated from bulk upload",
+              "planningRecordComments": "ja660w(01/07/2019 02:45)Cloned from PR ID: PR0037297_EPOC 01-07-2019 02:45:17",
+              "draftCRCRRequestor": "ja660w",
+              "prId": "PR0037298",
+              "targetSubmitDate": "1548405900",
+              "approverSignature": "",
+              "gMOP": "No",
+              "workType": "Netbackup installation",
+              "impactedGroup": [
+                "None"
+              ],
+              "additionalGroup": [],
+              "assetListFlex": [
+                "dfgragte"
+              ],
+              "colorCodingMap": {
+                "cRStatus": "cancel",
+                "changeId": "cancel",
+                "check": "hidecheckbox"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "mopOwner": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "assigneeConcat": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "changeId": "https://aotswcj.test.att.com:14300/arsys/servlet/ViewFormServlet?form=CHG%3AChange&server=AOTSCM14200&eid="
+              },
+              "domain": "D2.0",
+              "listZoneSelected": [
+                "2"
+              ],
+              "listServiceAffectedAll": [
+                "AT&T SmBVoIP",
+                "AT&T VoLTE"
+              ],
+              "changeIdentifierSelected": [
+                "AIC-S"
+              ],
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "dataCentreCode": [
+                "AMS1"
+              ],
+              "assigneeConcat": [],
+              "draftCRCRRequestorWithOutURI": "ja660w",
+              "mopOwnerWithOutURI": "ja660w",
+              "assigneeWithOutURI": ""
+            },
+            {
+              "uniqueKey": "UK_37305_4695400",
+              "technologyFlex": [
+                "VOIP (vUSP-vVoLTE)"
+              ],
+              "prtechnologyFlex": [
+                "VOIP (vUSP-vVoLTE)"
+              ],
+              "crtechnologyFlex": [
+                "VOIP (vUSP-vVoLTE)"
+              ],
+              "role": "GNO-NRC-VOIP-vAPPS",
+              "approverRolesList": [
+                "GNO-NRC-VOIP-vAPPS",
+                null
+              ],
+              "approverSignatureList": [
+                "",
+                null
+              ],
+              "approverSignatureStatus": [
+                "Pending",
+                null
+              ],
+              "approvalStatus": "Pending Approval",
+              "category": "VOIP",
+              "type": "D2.0",
+              "item": "TEST CR (IGNORE)",
+              "summary": "AIC-S,fsagvad:No Cust. & No Prov. Impact",
+              "plannedStartDate": "1548071100",
+              "plannedEndDate": "1548762420",
+              "assigneeGroup": "GNO-NRC-VOIP-vAPPS",
+              "changeId": "CHG000004695400",
+              "createdDate": "1546861712",
+              "apprec": [
+                {
+                  "role": "GNO-NRC-VOIP-vAPPS",
+                  "signatureStatus": "Pending"
+                },
+                {}
+              ],
+              "attId": "5c333c0c2b1dbf0abe5ad1ea",
+              "createdBy": "ja660w",
+              "changeID": "CHG000004695400",
+              "cRStatus": "Assigned",
+              "cRApprovalStatus": "Pending Approval",
+              "mopOwner": "ja660w",
+              "workDescription": "sadfbvsdzb",
+              "draftCRCRRequestor": "ja660w",
+              "prId": "PR0037305",
+              "targetSubmitDate": "1547639100",
+              "approverSignature": "",
+              "gMOP": "No",
+              "workType": "OS Upgrade",
+              "impactedGroup": [
+                "None"
+              ],
+              "additionalGroup": [],
+              "assetListFlex": [
+                "grha"
+              ],
+              "colorCodingMap": {
+                "plannedStartDate": "assigntarget",
+                "cRStatus": "assigned",
+                "changeId": "pendappf",
+                "plannedEndDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "mopOwner": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "assigneeConcat": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "changeId": "https://aotswcj.test.att.com:14300/arsys/servlet/ViewFormServlet?form=CHG%3AChange&server=AOTSCM14200&eid="
+              },
+              "domain": "D2.0",
+              "listZoneSelected": [
+                "2"
+              ],
+              "listServiceAffectedAll": [
+                "AT&T VoLTE",
+                "BVoIP_AVOICS",
+                "AT&T SmBVoIP"
+              ],
+              "changeIdentifierSelected": [
+                "AIC-S"
+              ],
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "dataCentreCode": [
+                "AKR2"
+              ],
+              "assigneeConcat": [],
+              "draftCRCRRequestorWithOutURI": "ja660w",
+              "mopOwnerWithOutURI": "ja660w",
+              "assigneeWithOutURI": ""
+            },
+            {
+              "uniqueKey": "UK_39147_4695499",
+              "technologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "prtechnologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "crtechnologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "role": "GNO-NRC-VOIP-APPS",
+              "approverRolesList": [
+                "GNO-NRC-VOIP-APPS",
+                null
+              ],
+              "approverSignatureList": [
+                "ja660w",
+                null
+              ],
+              "approverSignatureStatus": [
+                "Approved",
+                null
+              ],
+              "approvalStatus": "Approved",
+              "category": "VOIP",
+              "type": "ATS",
+              "item": "TEST CR (IGNORE)",
+              "summary": "sfddgvd:No Cust. & No Prov. Impact",
+              "plannedStartDate": "1547024280",
+              "plannedEndDate": "1548666000",
+              "assigneeGroup": "GNO-NRC-VOIP-APPS",
+              "changeId": "CHG000004695499",
+              "createdDate": "1547024418",
+              "lastModifiedDate": "1547025054",
+              "apprec": [
+                {
+                  "role": "GNO-NRC-VOIP-APPS",
+                  "signatureStatus": "Approved"
+                },
+                {}
+              ],
+              "attId": "5c35b7cc2b1dbf0abe5add20",
+              "createdBy": "ja660w",
+              "changeID": "CHG000004695499",
+              "cRStatus": "Assigned",
+              "cRApprovalStatus": "Approved",
+              "mopOwner": "ja660w",
+              "workDescription": "sfdfgvdzfbsfzgb",
+              "draftCRCRRequestor": "ja660w",
+              "prId": "PR0039147",
+              "targetSubmitDate": "1546592280",
+              "approverSignature": "ja660w",
+              "gMOP": "No",
+              "workType": "Gold Standard Update",
+              "impactedGroup": [
+                "None"
+              ],
+              "additionalGroup": [],
+              "assetListFlex": [],
+              "colorCodingMap": {
+                "plannedStartDate": "assigntarget",
+                "cRStatus": "assigned",
+                "changeId": "app",
+                "plannedEndDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "mopOwner": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "assigneeConcat": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "changeId": "https://aotswcj.test.att.com:14300/arsys/servlet/ViewFormServlet?form=CHG%3AChange&server=AOTSCM14200&eid="
+              },
+              "domain": "D1.0",
+              "listServiceAffectedAll": [],
+              "changeIdentifierSelected": [],
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "dataCentreCode": [],
+              "assigneeConcat": [],
+              "draftCRCRRequestorWithOutURI": "ja660w",
+              "mopOwnerWithOutURI": "ja660w",
+              "assigneeWithOutURI": ""
+            },
+            {
+              "uniqueKey": "UK_x_4695533",
+              "technologyFlex": [],
+              "prtechnologyFlex": [],
+              "approvalStatus": "Approval Required",
+              "category": "VOIP",
+              "type": "ATS",
+              "item": "Backup/Recovery",
+              "summary": "304360a",
+              "plannedStartDate": "1547100000",
+              "plannedEndDate": "1548828000",
+              "assigneeGroup": "GNO-NRC-VOIP-CORD",
+              "changeId": "CHG000004695533",
+              "createdDate": "1547112987",
+              "productAffected": "304360a",
+              "attId": "5c37121b6be3b7b9d3366560",
+              "changeID": "CHG000004695533",
+              "cRStatus": "Assigned",
+              "cRApprovalStatus": "Approval Required",
+              "draftCRCRRequestor": "ja660w",
+              "gMOP": "No",
+              "impactedGroup": [],
+              "additionalGroup": [],
+              "assetListFlex": [
+                "zdyh1apxtc01"
+              ],
+              "colorCodingMap": {
+                "plannedStartDate": "assigntarget",
+                "cRStatus": "assigned",
+                "check": "hidecheckbox",
+                "plannedEndDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "assigneeConcat": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "changeId": "https://aotswcj.test.att.com:14300/arsys/servlet/ViewFormServlet?form=CHG%3AChange&server=AOTSCM14200&eid="
+              },
+              "listServiceAffectedAll": [
+                "304360a"
+              ],
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "assigneeConcat": [],
+              "draftCRCRRequestorWithOutURI": "ja660w"
+            },
+            {
+              "uniqueKey": "UK_40513_4695543",
+              "technologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "prtechnologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "crtechnologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "role": "GNO-NRC-VOIP-APPS",
+              "approverRolesList": [
+                "GNO-NRC-VOIP-APPS",
+                null
+              ],
+              "approverSignatureList": [
+                "ja660w",
+                null
+              ],
+              "approverSignatureStatus": [
+                "Approved",
+                null
+              ],
+              "approvalStatus": "Approved",
+              "category": "VOIP",
+              "type": "ATS",
+              "item": "TEST CR (IGNORE)",
+              "summary": "fsdfsf:No Cust. & No Prov. Impact",
+              "plannedStartDate": "1547212260",
+              "plannedEndDate": "1548767580",
+              "assigneeGroup": "GNO-NRC-VOIP-APPS",
+              "changeId": "CHG000004695543",
+              "createdDate": "1547126242",
+              "lastModifiedDate": "1547127574",
+              "apprec": [
+                {
+                  "role": "GNO-NRC-VOIP-APPS",
+                  "signatureStatus": "Approved"
+                },
+                {}
+              ],
+              "attId": "5c3745476be3b7b9d3366573",
+              "createdBy": "ja660w",
+              "changeID": "CHG000004695543",
+              "cRStatus": "Assigned",
+              "cRApprovalStatus": "Approved",
+              "mopOwner": "ja660w",
+              "workDescription": "sfasfaesrgedr",
+              "planningRecordComments": "ja660w(01/10/2019 07:39)updated from bulk page",
+              "draftCRCRRequestor": "ja660w",
+              "prId": "PR0040513",
+              "targetSubmitDate": "1546953060",
+              "approverSignature": "ja660w",
+              "gMOP": "No",
+              "workType": "Hardware Replacement",
+              "impactedGroup": [
+                "None"
+              ],
+              "additionalGroup": [],
+              "assetListFlex": [],
+              "colorCodingMap": {
+                "plannedStartDate": "assigntarget",
+                "cRStatus": "assigned",
+                "changeId": "app",
+                "plannedEndDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "mopOwner": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "assigneeConcat": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "changeId": "https://aotswcj.test.att.com:14300/arsys/servlet/ViewFormServlet?form=CHG%3AChange&server=AOTSCM14200&eid="
+              },
+              "domain": "D1.0",
+              "listServiceAffectedAll": [],
+              "changeIdentifierSelected": [],
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "dataCentreCode": [],
+              "assigneeConcat": [],
+              "draftCRCRRequestorWithOutURI": "ja660w",
+              "mopOwnerWithOutURI": "ja660w",
+              "assigneeWithOutURI": ""
+            },
+            {
+              "uniqueKey": "UK_40514_4695544",
+              "technologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "prtechnologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "crtechnologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "role": "GNO-NRC-VOIP-APPS",
+              "approverRolesList": [
+                "GNO-NRC-VOIP-APPS",
+                null
+              ],
+              "approverSignatureList": [
+                "",
+                null
+              ],
+              "approverSignatureStatus": [
+                "Pending",
+                null
+              ],
+              "approvalStatus": "Pending Approval",
+              "category": "VOIP",
+              "type": "ATS",
+              "item": "TEST CR (IGNORE)",
+              "summary": "fsdfsf:No Cust. & No Prov. Impact",
+              "plannedStartDate": "1548077220",
+              "plannedEndDate": "1548941340",
+              "assigneeGroup": "GNO-NRC-VOIP-APPS",
+              "changeId": "CHG000004695544",
+              "createdDate": "1547127030",
+              "apprec": [
+                {
+                  "role": "GNO-NRC-VOIP-APPS",
+                  "signatureStatus": "Pending"
+                },
+                {}
+              ],
+              "attId": "5c3748462b1dbf53c77f8d75",
+              "createdBy": "ja660w",
+              "changeID": "CHG000004695544",
+              "cRStatus": "Assigned",
+              "cRApprovalStatus": "Pending Approval",
+              "mopOwner": "ja660w",
+              "workDescription": "fsafsdrg",
+              "draftCRCRRequestor": "ja660w",
+              "prId": "PR0040514",
+              "targetSubmitDate": "1547645220",
+              "approverSignature": "",
+              "gMOP": "No",
+              "workType": "Netbackup installation",
+              "impactedGroup": [
+                "None"
+              ],
+              "additionalGroup": [],
+              "assetListFlex": [],
+              "colorCodingMap": {
+                "plannedStartDate": "assigntarget",
+                "cRStatus": "assigned",
+                "changeId": "pendappf",
+                "plannedEndDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "mopOwner": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "assigneeConcat": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "changeId": "https://aotswcj.test.att.com:14300/arsys/servlet/ViewFormServlet?form=CHG%3AChange&server=AOTSCM14200&eid="
+              },
+              "domain": "D1.0",
+              "listServiceAffectedAll": [],
+              "changeIdentifierSelected": [],
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "dataCentreCode": [],
+              "assigneeConcat": [],
+              "draftCRCRRequestorWithOutURI": "ja660w",
+              "mopOwnerWithOutURI": "ja660w",
+              "assigneeWithOutURI": ""
+            },
+            {
+              "uniqueKey": "UK_x_4695551",
+              "technologyFlex": [],
+              "prtechnologyFlex": [],
+              "approvalStatus": "Approval Required",
+              "category": "VOIP",
+              "type": "ATS",
+              "item": "Backup/Recovery",
+              "summary": "tt",
+              "plannedStartDate": "1547100000",
+              "plannedEndDate": "1548828000",
+              "assigneeGroup": "GNO-NRC-VOIP-CORD",
+              "changeId": "CHG000004695551",
+              "createdDate": "1547131510",
+              "productAffected": "tt",
+              "attId": "5c375a766be3b7b9d33665c1",
+              "changeID": "CHG000004695551",
+              "cRStatus": "Assigned",
+              "cRApprovalStatus": "Approval Required",
+              "draftCRCRRequestor": "ja660w",
+              "gMOP": "No",
+              "impactedGroup": [],
+              "additionalGroup": [],
+              "assetListFlex": [
+                "zdyh1apxtc01"
+              ],
+              "colorCodingMap": {
+                "plannedStartDate": "assigntarget",
+                "cRStatus": "assigned",
+                "check": "hidecheckbox",
+                "plannedEndDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "assigneeConcat": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "changeId": "https://aotswcj.test.att.com:14300/arsys/servlet/ViewFormServlet?form=CHG%3AChange&server=AOTSCM14200&eid="
+              },
+              "listServiceAffectedAll": [
+                "tt"
+              ],
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "assigneeConcat": [],
+              "draftCRCRRequestorWithOutURI": "ja660w"
+            },
+            {
+              "uniqueKey": "UK_x_4695583",
+              "technologyFlex": [],
+              "prtechnologyFlex": [],
+              "approvalStatus": "Approval Required",
+              "category": "ATT_IT",
+              "type": "Environment",
+              "item": "Building",
+              "summary": "brief summary of change",
+              "plannedStartDate": "1547100000",
+              "plannedEndDate": "1548741600",
+              "assigneeGroup": "GNO-NRC-VOIP-CORD",
+              "changeId": "CHG000004695583",
+              "createdDate": "1547136504",
+              "productAffected": "tt",
+              "attId": "5c376df86be3b7b9d3366657",
+              "changeID": "CHG000004695583",
+              "cRStatus": "Assigned",
+              "cRApprovalStatus": "Approval Required",
+              "planningRecordComments": "[ If CR needs to span more than 7 calendar days (168 hours), enter the reason here ]",
+              "draftCRCRRequestor": "ja660w",
+              "gMOP": "No",
+              "impactedGroup": [],
+              "additionalGroup": [],
+              "assetListFlex": [
+                "006G1182R"
+              ],
+              "colorCodingMap": {
+                "plannedStartDate": "assigntarget",
+                "cRStatus": "assigned",
+                "check": "hidecheckbox",
+                "plannedEndDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "assigneeConcat": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "changeId": "https://aotswcj.test.att.com:14300/arsys/servlet/ViewFormServlet?form=CHG%3AChange&server=AOTSCM14200&eid="
+              },
+              "listServiceAffectedAll": [
+                "tt"
+              ],
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "assigneeConcat": [],
+              "draftCRCRRequestorWithOutURI": "ja660w"
+            },
+            {
+              "uniqueKey": "UK_x_4695819",
+              "technologyFlex": [],
+              "prtechnologyFlex": [],
+              "approvalStatus": "Approval Required",
+              "category": "VOIP",
+              "type": "D2.0",
+              "item": "vF Instantiation",
+              "summary": "304360a",
+              "plannedStartDate": "1547186400",
+              "plannedEndDate": "1548741600",
+              "assigneeGroup": "GNO-NRC-VOIP-CORD",
+              "changeId": "CHG000004695819",
+              "createdDate": "1547199864",
+              "productAffected": "tt",
+              "attId": "5c3865786be3b7b9d3366a4b",
+              "changeID": "CHG000004695819",
+              "cRStatus": "Assigned",
+              "cRApprovalStatus": "Approval Required",
+              "draftCRCRRequestor": "ja660w",
+              "gMOP": "No",
+              "impactedGroup": [],
+              "additionalGroup": [],
+              "assetListFlex": [
+                "zdyh1apxtc01"
+              ],
+              "colorCodingMap": {
+                "plannedStartDate": "assigntarget",
+                "cRStatus": "assigned",
+                "check": "hidecheckbox",
+                "plannedEndDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "assigneeConcat": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "changeId": "https://aotswcj.test.att.com:14300/arsys/servlet/ViewFormServlet?form=CHG%3AChange&server=AOTSCM14200&eid="
+              },
+              "listServiceAffectedAll": [
+                "tt",
+                "FIRSTNET"
+              ],
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "assigneeConcat": [],
+              "draftCRCRRequestorWithOutURI": "ja660w"
+            },
+            {
+              "uniqueKey": "UK_x_4695828",
+              "technologyFlex": [],
+              "prtechnologyFlex": [],
+              "approvalStatus": "Approval Required",
+              "category": "Mobility-National",
+              "type": "Data Configuration Change",
+              "item": "Data Configuration Change",
+              "summary": "Enter a brief summary of the change",
+              "plannedStartDate": "1547186400",
+              "plannedEndDate": "1548914400",
+              "assigneeGroup": "GNO-NRC-VOIP-CORD",
+              "changeId": "CHG000004695828",
+              "createdDate": "1547202551",
+              "productAffected": "Data",
+              "attId": "5c386ff76be3b7b9d3366a6d",
+              "changeID": "CHG000004695828",
+              "cRStatus": "Assigned",
+              "cRApprovalStatus": "Approval Required",
+              "planningRecordComments": "[ If CR needs to span more than 7 calendar days (168 hours), enter the reason here ]",
+              "draftCRCRRequestor": "ja660w",
+              "gMOP": "No",
+              "impactedGroup": [],
+              "additionalGroup": [],
+              "assetListFlex": [],
+              "colorCodingMap": {
+                "plannedStartDate": "assigntarget",
+                "cRStatus": "assigned",
+                "check": "hidecheckbox",
+                "plannedEndDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "assigneeConcat": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "changeId": "https://aotswcj.test.att.com:14300/arsys/servlet/ViewFormServlet?form=CHG%3AChange&server=AOTSCM14200&eid="
+              },
+              "listServiceAffectedAll": [
+                "E911"
+              ],
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "assigneeConcat": [],
+              "draftCRCRRequestorWithOutURI": "ja660w"
+            },
+            {
+              "uniqueKey": "UK_x_4695918",
+              "technologyFlex": [
+                "MOB - DBA/Netbackup"
+              ],
+              "prtechnologyFlex": [],
+              "crtechnologyFlex": [
+                "MOB - DBA/Netbackup"
+              ],
+              "approvalStatus": "Approval Required",
+              "category": "Mobility-National",
+              "type": "DBA/Netbackup",
+              "item": "DBA/Netbackup",
+              "summary": "Enter a brief summary of the change",
+              "plannedStartDate": "1547186400",
+              "plannedEndDate": "1548914400",
+              "assigneeGroup": "GNO-NRC-VOIP-CORD",
+              "changeId": "CHG000004695918",
+              "closureCode": "Backed Out",
+              "createdDate": "1547218506",
+              "productAffected": "Data",
+              "lastModifiedDate": "1547218687",
+              "attId": "5c38ae536be3b7b9d3366b9c",
+              "changeID": "CHG000004695918",
+              "cRStatus": "Closed",
+              "cRApprovalStatus": "Approval Required",
+              "planningRecordComments": "[ If CR needs to span more than 7 calendar days (168 hours), enter the reason here ]",
+              "draftCRCRRequestor": "ja660w",
+              "gMOP": "No",
+              "impactedGroup": [],
+              "additionalGroup": [],
+              "assetListFlex": [],
+              "colorCodingMap": {
+                "cRStatus": "closed",
+                "check": "hidecheckbox",
+                "changeId": "closedbacked"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "assigneeConcat": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "changeId": "https://aotswcj.test.att.com:14300/arsys/servlet/ViewFormServlet?form=CHG%3AChange&server=AOTSCM14200&eid="
+              },
+              "listServiceAffectedAll": [
+                "E911"
+              ],
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "assigneeConcat": [],
+              "draftCRCRRequestorWithOutURI": "ja660w"
+            },
+            {
+              "uniqueKey": "UK_40732_4696918",
+              "technologyFlex": [
+                "VOIP (vUSP-vVoLTE)"
+              ],
+              "prtechnologyFlex": [
+                "VOIP (vUSP-vVoLTE)"
+              ],
+              "crtechnologyFlex": [
+                "VOIP (vUSP-vVoLTE)"
+              ],
+              "approverRolesList": [
+                "GNO-NRC-VOIP-CORD"
+              ],
+              "approverSignatureList": [
+                " "
+              ],
+              "approvalStatus": "Pending Approval",
+              "category": "VOIP",
+              "type": "D2.0",
+              "item": "TEST CR (IGNORE)",
+              "summary": "AIC-H,AIC-S,TEST DATA:No Prov. Impact",
+              "plannedStartDate": "1547506020",
+              "plannedEndDate": "1548888540",
+              "assigneeGroup": "GNO-NRC-VOIP-CORD",
+              "changeId": "CHG000004696918",
+              "createdDate": "1547506074",
+              "assetType": "V-App",
+              "lastModifiedDate": "1547720935",
+              "lastModifiedBy": "ja660w",
+              "addedDeviceRecCountD2": 2,
+              "apprec": [
+                {
+                  "role": "GNO-NRC-VOIP-CORD",
+                  "approvers": "hl3236, es1651, ka2573, wb2753, dd116d, js603t, am8962, kh7768, lm2942, ja660w, nt3288, tk2439, ",
+                  "signatureStatus": "Pending"
+                }
+              ],
+              "riskAssessmentID": "123",
+              "riskFactor": "223",
+              "nACheckbox": false,
+              "attId": "5c3d117f2b1dbf6d6a68875a",
+              "createdBy": "ja660w",
+              "createdAt": "1547506074",
+              "changeID": "CHG000004696918",
+              "cRStatus": "Assigned",
+              "cRApprovalStatus": "Pending Approval",
+              "mopOwner": "np364g",
+              "workDescription": "TEST DATA",
+              "planningRecordComments": "ja660w(01/14/2019 16:47)Cloned from PR ID: PR0040727_EPOC 01-14-2019 16:47:20",
+              "draftCRCRRequestor": "ja660w",
+              "prId": "PR0040732",
+              "targetSubmitDate": "1547074020",
+              "gMOP": "No",
+              "gMOPFlex": false,
+              "workType": "Other",
+              "assetListFlex": [
+                "132",
+                "DATA"
+              ],
+              "attachmentCount": 2,
+              "colorCodingMap": {
+                "plannedStartDate": "assigntarget",
+                "cRStatus": "assigned",
+                "changeId": "pendappf",
+                "plannedEndDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "mopOwner": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "changeId": "https://aotswcj.test.att.com:14300/arsys/servlet/ViewFormServlet?form=CHG%3AChange&server=AOTSCM14200&eid="
+              },
+              "domain": "D2.0",
+              "listZoneSelected": [
+                "2"
+              ],
+              "listServiceAffectedAll": [
+                "AT&T CVoIP"
+              ],
+              "changeIdentifierSelected": [
+                "AIC-H",
+                "AIC-S"
+              ],
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "dataCentreCode": [
+                "ATL1"
+              ],
+              "selectedCilliDomain2": [
+                {
+                  "cLLI": "ATLNGATL",
+                  "location": "GEORGIA",
+                  "city": "ATLANTA",
+                  "dataCntrCd": [
+                    "ATL1"
+                  ]
+                }
+              ],
+              "cLLICountDomain2": 1,
+              "processStatus": "COMPLETED PROCESS WITH EXTERNAL SYSTEM",
+              "draftCRCRRequestorWithOutURI": "ja660w",
+              "mopOwnerWithOutURI": "np364g",
+              "createdByWithOutURI": "ja660w"
+            },
+            {
+              "uniqueKey": "UK_40744_4697227",
+              "technologyFlex": [
+                "VOIP (vUSP-vVoLTE)"
+              ],
+              "prtechnologyFlex": [
+                "VOIP (vUSP-vVoLTE)"
+              ],
+              "crtechnologyFlex": [
+                "VOIP (vUSP-vVoLTE)"
+              ],
+              "approverRolesList": [
+                "GNO-NRC-VOIP-CORD"
+              ],
+              "approverSignatureList": [
+                " "
+              ],
+              "approvalStatus": "Approval Required",
+              "category": "VOIP",
+              "type": "D2.0",
+              "item": "CALENDAR",
+              "summary": "AIC-S,D2 OSS,123123a:No Cust. & No Prov. Impact",
+              "plannedStartDate": "1547676120",
+              "plannedEndDate": "1548885840",
+              "assigneeGroup": "GNO-NRC-VOIP-CORD",
+              "changeId": "CHG000004697227",
+              "createdDate": "1547589745",
+              "assetType": "AIC-Infra",
+              "lastModifiedDate": "1547590142",
+              "lastModifiedBy": "ja660w",
+              "addedDeviceRecCountD2": 7,
+              "apprec": [
+                {
+                  "role": "GNO-NRC-VOIP-CORD",
+                  "approvers": "hl3236, es1651, ka2573, wb2753, dd116d, js603t, am8962, kh7768, lm2942, ja660w, nt3288, tk2439, ",
+                  "signatureStatus": "Pending"
+                }
+              ],
+              "nACheckbox": true,
+              "attId": "5c3e58682b1dbf6d6a6887e7",
+              "createdBy": "ja660w",
+              "createdAt": "1547589745",
+              "changeID": "CHG000004697227",
+              "cRStatus": "Assigned",
+              "cRApprovalStatus": "Approval Required",
+              "mopOwner": "ja660w",
+              "workDescription": "test",
+              "planningRecordComments": "ja660w(01/15/2019 16:02)Cloned from PR ID: PR0040743_EPOC 01-15-2019 16:02:08",
+              "draftCRCRRequestor": "ja660w",
+              "prId": "PR0040744",
+              "targetSubmitDate": "1547244120",
+              "gMOP": "No",
+              "gMOPFlex": false,
+              "workType": "Other",
+              "assetListFlex": [
+                "test",
+                "test1",
+                "test2",
+                "test3",
+                "test4",
+                "test5",
+                "test6"
+              ],
+              "attachmentCount": 2,
+              "colorCodingMap": {
+                "plannedStartDate": "assigntarget",
+                "cRStatus": "assigned",
+                "plannedEndDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "mopOwner": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "changeId": "https://aotswcj.test.att.com:14300/arsys/servlet/ViewFormServlet?form=CHG%3AChange&server=AOTSCM14200&eid="
+              },
+              "domain": "D2.0",
+              "listZoneSelected": [
+                "2"
+              ],
+              "listServiceAffectedAll": [
+                "AT&T CVoIP"
+              ],
+              "changeIdentifierSelected": [
+                "AIC-S",
+                "D2 OSS"
+              ],
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "dataCentreCode": [
+                "AMS1",
+                "AUS1"
+              ],
+              "selectedCilliDomain2": [
+                {
+                  "cLLI": "AMSTNLBW",
+                  "location": "NETHERLANDS",
+                  "city": "AMSTERDAM",
+                  "dataCntrCd": [
+                    "AMS1"
+                  ]
+                },
+                {
+                  "cLLI": "AUSTTXGR",
+                  "location": "TEXAS",
+                  "city": "AUSTIN",
+                  "dataCntrCd": [
+                    "AUS1"
+                  ]
+                }
+              ],
+              "cLLICountDomain2": 2,
+              "processStatus": "PROCESSING STARTED WITH EXTERNAL SYSTEM",
+              "draftCRCRRequestorWithOutURI": "ja660w",
+              "mopOwnerWithOutURI": "ja660w",
+              "createdByWithOutURI": "ja660w"
+            },
+            {
+              "uniqueKey": "UK_x_4697820",
+              "approvalStatus": "Approval Required",
+              "category": "VOIP",
+              "type": "ATS",
+              "item": "Backup/Recovery",
+              "summary": "304360",
+              "plannedStartDate": "1547704800",
+              "plannedEndDate": "1548914400",
+              "assigneeGroup": "GNO-NRC-VOIP-CORD",
+              "changeId": "CHG000004697820",
+              "createdDate": "1547744203",
+              "productAffected": "tt",
+              "nACheckbox": false,
+              "attId": "5c40b3cc6be3b7b9d3368a6f",
+              "createdAt": "1547744203",
+              "changeID": "CHG000004697820",
+              "cRStatus": "Assigned",
+              "cRApprovalStatus": "Approval Required",
+              "draftCRCRRequestor": "ja660w",
+              "oSWFTicketNo": "N/A",
+              "prId": " ",
+              "gMOP": "No",
+              "gMOPFlex": false,
+              "assetListFlex": [
+                "cl6oh01pcf",
+                "cl6oh02bgw",
+                "nw6ny01bgw",
+                "oa6ca02bgw",
+                "so6ca02bgw"
+              ],
+              "colorCodingMap": {
+                "plannedStartDate": "assigntarget",
+                "cRStatus": "assigned",
+                "check": "hidecheckbox",
+                "plannedEndDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "changeId": "https://aotswcj.test.att.com:14300/arsys/servlet/ViewFormServlet?form=CHG%3AChange&server=AOTSCM14200&eid="
+              },
+              "listServiceAffectedAll": [
+                "tt"
+              ],
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "draftCRCRRequestorWithOutURI": "ja660w"
+            },
+            {
+              "uniqueKey": "UK_40848_4698213",
+              "technologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "prtechnologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "crtechnologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "approverRolesList": [
+                "GNO-NRC-VOIP-APPS"
+              ],
+              "approverSignatureList": [
+                "ja660w"
+              ],
+              "approvalStatus": "Approved",
+              "category": "VOIP",
+              "type": "ATS",
+              "item": "TEST CR (IGNORE)",
+              "summary": "fsdfszfdsf:No Cust. & No Prov. Impact",
+              "plannedStartDate": "1548241980",
+              "plannedEndDate": "1548760500",
+              "assigneeGroup": "GNO-NRC-VOIP-APPS",
+              "changeId": "CHG000004698213",
+              "createdDate": "1548155686",
+              "lastModifiedDate": "1548191971",
+              "lastModifiedBy": "ja660w",
+              "cLLIRecordflex": [
+                {
+                  "cLLI": "BGTNMOBU",
+                  "location": "MISSOURI",
+                  "city": "BRIDGETON"
+                }
+              ],
+              "apprec": [
+                {
+                  "role": "GNO-NRC-VOIP-APPS",
+                  "approvers": "wc1094, ia2524, ma3136, ij3694, am8962, vv3832, by4258, es1651, ka2573, ct2962, rp3791, rs4128, cp0878, ab8691, pf162k, dd116d, mb667u, rx234k, kh7768, jw1729, ig610c, cd814t, rp843b, mu002y, jr1636, dc1259, ja660w, jh5375, bt6861, ap231e, ",
+                  "signatureStatus": "Approved",
+                  "approverSignature": "ja660w"
+                }
+              ],
+              "nACheckbox": true,
+              "attId": "5c46fafe2b1dbf7155176404",
+              "createdBy": "ja660w",
+              "createdAt": "1548155686",
+              "changeID": "CHG000004698213",
+              "cRStatus": "Assigned",
+              "cRApprovalStatus": "Approved",
+              "mopOwner": "ja660w",
+              "workDescription": "fsfsafsv",
+              "draftCRCRRequestor": "ja660w",
+              "prId": "PR0040848",
+              "targetSubmitDate": "1547809980",
+              "gMOP": "No",
+              "gMOPFlex": false,
+              "workType": "Licensing",
+              "assetListFlex": [
+                "Demo1",
+                "Demo10",
+                "Demo100",
+                "Demo101",
+                "Demo11",
+                "Demo12",
+                "Demo13",
+                "Demo14",
+                "Demo15",
+                "Demo16",
+                "Demo17",
+                "Demo18",
+                "Demo19",
+                "Demo2",
+                "Demo20",
+                "Demo21",
+                "Demo22",
+                "Demo23",
+                "Demo24",
+                "Demo25",
+                "Demo26",
+                "Demo27",
+                "Demo28",
+                "Demo29",
+                "Demo3",
+                "Demo30",
+                "Demo31",
+                "Demo32",
+                "Demo33",
+                "Demo34",
+                "Demo35",
+                "Demo36",
+                "Demo37",
+                "Demo38",
+                "Demo39",
+                "Demo4",
+                "Demo40",
+                "Demo41",
+                "Demo42",
+                "Demo43",
+                "Demo44",
+                "Demo45",
+                "Demo46",
+                "Demo47",
+                "Demo48",
+                "Demo49",
+                "Demo5",
+                "Demo50",
+                "Demo51",
+                "Demo52",
+                "Demo53",
+                "Demo54",
+                "Demo55",
+                "Demo56",
+                "Demo57",
+                "Demo58",
+                "Demo59",
+                "Demo6",
+                "Demo60",
+                "Demo61",
+                "Demo62",
+                "Demo63",
+                "Demo64",
+                "Demo65",
+                "Demo66",
+                "Demo67",
+                "Demo68",
+                "Demo69",
+                "Demo7",
+                "Demo70",
+                "Demo71",
+                "Demo72",
+                "Demo73",
+                "Demo74",
+                "Demo75",
+                "Demo76",
+                "Demo77",
+                "Demo78",
+                "Demo79",
+                "Demo8",
+                "Demo80",
+                "Demo81",
+                "Demo82",
+                "Demo83",
+                "Demo84",
+                "Demo85",
+                "Demo86",
+                "Demo87",
+                "Demo88",
+                "Demo89",
+                "Demo9",
+                "Demo90",
+                "Demo91",
+                "Demo92",
+                "Demo93",
+                "Demo94",
+                "Demo95",
+                "Demo96",
+                "Demo97",
+                "Demo98"
+              ],
+              "countCLLI": 1,
+              "colorCodingMap": {
+                "plannedStartDate": "assigntarget",
+                "cRStatus": "assigned",
+                "changeId": "app",
+                "plannedEndDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "mopOwner": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "changeId": "https://aotswcj.test.att.com:14300/arsys/servlet/ViewFormServlet?form=CHG%3AChange&server=AOTSCM14200&eid="
+              },
+              "domain": "D1.0",
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "processStatus": "PROCESSING STARTED WITH EXTERNAL SYSTEM",
+              "draftCRCRRequestorWithOutURI": "ja660w",
+              "mopOwnerWithOutURI": "ja660w",
+              "createdByWithOutURI": "ja660w"
+            },
+            {
+              "uniqueKey": "UK_40849_4698214",
+              "technologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "prtechnologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "crtechnologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "approverRolesList": [
+                "GNO-NRC-VOIP-APPS"
+              ],
+              "approverSignatureList": [
+                " "
+              ],
+              "approvalStatus": "Pending Approval",
+              "category": "VOIP",
+              "type": "ATS",
+              "item": "TEST CR (IGNORE)",
+              "summary": "fsdfszfdsf:No Cust. & No Prov. Impact",
+              "plannedStartDate": "1548675180",
+              "plannedEndDate": "1548761700",
+              "assigneeGroup": "GNO-NRC-VOIP-APPS",
+              "changeId": "CHG000004698214",
+              "createdDate": "1548156916",
+              "lastModifiedBy": "ja660w",
+              "cLLIRecordflex": [
+                {
+                  "cLLI": "BGTNMOBU",
+                  "location": "MISSOURI",
+                  "city": "BRIDGETON"
+                }
+              ],
+              "apprec": [
+                {
+                  "role": "GNO-NRC-VOIP-APPS",
+                  "approvers": "wc1094, ia2524, ma3136, ij3694, am8962, vv3832, by4258, es1651, ka2573, ct2962, rp3791, rs4128, cp0878, ab8691, pf162k, dd116d, mb667u, rx234k, kh7768, jw1729, ig610c, cd814t, rp843b, mu002y, jr1636, dc1259, ja660w, jh5375, bt6861, ap231e, ",
+                  "signatureStatus": "Pending"
+                }
+              ],
+              "nACheckbox": true,
+              "attId": "5c46ff832b1dbf7155176419",
+              "createdBy": "ja660w",
+              "createdAt": "1548156916",
+              "changeID": "CHG000004698214",
+              "cRStatus": "Assigned",
+              "cRApprovalStatus": "Pending Approval",
+              "mopOwner": "ja660w",
+              "workDescription": "fsfsafsv",
+              "planningRecordComments": "ja660w(01/22/2019 05:33)Cloned from PR ID: PR0040848_EPOC 01-22-2019 05:33:03",
+              "draftCRCRRequestor": "ja660w",
+              "prId": "PR0040849",
+              "targetSubmitDate": "1548243180",
+              "gMOP": "No",
+              "gMOPFlex": false,
+              "workType": "Licensing",
+              "assetListFlex": [],
+              "countCLLI": 1,
+              "colorCodingMap": {
+                "plannedStartDate": "assigntarget",
+                "cRStatus": "assigned",
+                "changeId": "pendappf",
+                "plannedEndDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "mopOwner": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "changeId": "https://aotswcj.test.att.com:14300/arsys/servlet/ViewFormServlet?form=CHG%3AChange&server=AOTSCM14200&eid="
+              },
+              "domain": "D1.0",
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "processStatus": "COMPLETED PROCESS WITH EXTERNAL SYSTEM",
+              "draftCRCRRequestorWithOutURI": "ja660w",
+              "mopOwnerWithOutURI": "ja660w",
+              "createdByWithOutURI": "ja660w"
+            },
+            {
+              "uniqueKey": "UK_x_4698217",
+              "technologyFlex": [
+                "MOB - DBA/Netbackup",
+                "MOB - DBA/Netbackup"
+              ],
+              "crtechnologyFlex": [
+                "MOB - DBA/Netbackup",
+                "MOB - DBA/Netbackup"
+              ],
+              "approvalStatus": "Approval Required",
+              "category": "Mobility-National",
+              "type": "DBA/Netbackup",
+              "item": "DBA/Netbackup",
+              "summary": "Enter a brief summary of the change",
+              "plannedStartDate": "1548136800",
+              "plannedEndDate": "1548914400",
+              "assigneeGroup": "GNO-NRC-VOIP-CORD",
+              "changeId": "CHG000004698217",
+              "createdDate": "1548172081",
+              "productAffected": "Data",
+              "nACheckbox": false,
+              "attId": "5c473b312b1dbf7155176492",
+              "createdAt": "1548172081",
+              "changeID": "CHG000004698217",
+              "cRStatus": "Assigned",
+              "cRApprovalStatus": "Approval Required",
+              "planningRecordComments": "[ If CR needs to span more than 7 calendar days (168 hours), enter the reason here ]",
+              "draftCRCRRequestor": "ja660w",
+              "oSWFTicketNo": "N/A",
+              "prId": " ",
+              "gMOP": "No",
+              "gMOPFlex": false,
+              "assetListFlex": [],
+              "colorCodingMap": {
+                "plannedStartDate": "assigntarget",
+                "cRStatus": "assigned",
+                "check": "hidecheckbox",
+                "plannedEndDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "changeId": "https://aotswcj.test.att.com:14300/arsys/servlet/ViewFormServlet?form=CHG%3AChange&server=AOTSCM14200&eid="
+              },
+              "listServiceAffectedAll": [
+                "E911"
+              ],
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "draftCRCRRequestorWithOutURI": "ja660w"
+            },
+            {
+              "uniqueKey": "UK_x_4698218",
+              "technologyFlex": [
+                "MOB - E911"
+              ],
+              "crtechnologyFlex": [
+                "MOB - E911"
+              ],
+              "approvalStatus": "Approval Required",
+              "category": "Mobility-Regional",
+              "type": "E911",
+              "item": "Data Configuration Change",
+              "summary": "Enter a brief summary of the change",
+              "plannedStartDate": "1548136800",
+              "plannedEndDate": "1548914400",
+              "assigneeGroup": "GNO-NRC-VOIP-CORD",
+              "changeId": "CHG000004698218",
+              "createdDate": "1548172082",
+              "productAffected": "Data",
+              "nACheckbox": false,
+              "attId": "5c473b322b1dbf7155176495",
+              "createdAt": "1548172082",
+              "changeID": "CHG000004698218",
+              "cRStatus": "Assigned",
+              "cRApprovalStatus": "Approval Required",
+              "planningRecordComments": "[ If CR needs to span more than 7 calendar days (168 hours), enter the reason here ]",
+              "draftCRCRRequestor": "ja660w",
+              "oSWFTicketNo": "N/A",
+              "prId": " ",
+              "gMOP": "No",
+              "gMOPFlex": false,
+              "assetListFlex": [],
+              "colorCodingMap": {
+                "plannedStartDate": "assigntarget",
+                "cRStatus": "assigned",
+                "check": "hidecheckbox",
+                "plannedEndDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "changeId": "https://aotswcj.test.att.com:14300/arsys/servlet/ViewFormServlet?form=CHG%3AChange&server=AOTSCM14200&eid="
+              },
+              "listServiceAffectedAll": [
+                "E911"
+              ],
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "draftCRCRRequestorWithOutURI": "ja660w"
+            },
+            {
+              "uniqueKey": "UK_40852_4698223",
+              "technologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "prtechnologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "crtechnologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "approverRolesList": [
+                "GNO-NRC-VOIP-APPS"
+              ],
+              "approverSignatureList": [
+                " "
+              ],
+              "approvalStatus": "Pending Approval",
+              "category": "VOIP",
+              "type": "ATS",
+              "item": "TEST CR (IGNORE)",
+              "summary": "vbhsrgbhsrgtb:No Cust. & No Prov. Impact",
+              "plannedStartDate": "1548351960",
+              "plannedEndDate": "1548784080",
+              "assigneeGroup": "GNO-NRC-VOIP-APPS",
+              "changeId": "CHG000004698223",
+              "createdDate": "1548179230",
+              "lastModifiedBy": "ja660w",
+              "cLLIRecordflex": [
+                {
+                  "cLLI": "DLLSTXTA",
+                  "location": "TEXAS",
+                  "city": "DALLAS"
+                }
+              ],
+              "apprec": [
+                {
+                  "role": "GNO-NRC-VOIP-APPS",
+                  "approvers": "wc1094, ia2524, ma3136, ij3694, am8962, vv3832, by4258, es1651, ka2573, ct2962, rp3791, rs4128, cp0878, ab8691, pf162k, dd116d, mb667u, rx234k, kh7768, jw1729, ig610c, cd814t, rp843b, mu002y, jr1636, dc1259, ja660w, jh5375, bt6861, ap231e, ",
+                  "signatureStatus": "Pending"
+                }
+              ],
+              "nACheckbox": true,
+              "attId": "5c4757182b1dbfd325096b2c",
+              "createdBy": "ja660w",
+              "createdAt": "1548179230",
+              "changeID": "CHG000004698223",
+              "cRStatus": "Assigned",
+              "cRApprovalStatus": "Pending Approval",
+              "mopOwner": "ja660w",
+              "workDescription": "gsnbsrtnh",
+              "planningRecordComments": "ja660w(01/22/2019 11:47)Cloned from PR ID: PR0034334_EPOC 01-22-2019 11:46:41",
+              "draftCRCRRequestor": "ja660w",
+              "prId": "PR0040852",
+              "targetSubmitDate": "1548092760",
+              "gMOP": "No",
+              "gMOPFlex": false,
+              "workType": "Licensing",
+              "assetListFlex": [],
+              "countCLLI": 1,
+              "colorCodingMap": {
+                "plannedStartDate": "assigntarget",
+                "cRStatus": "assigned",
+                "changeId": "pendappf",
+                "plannedEndDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "mopOwner": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "changeId": "https://aotswcj.test.att.com:14300/arsys/servlet/ViewFormServlet?form=CHG%3AChange&server=AOTSCM14200&eid="
+              },
+              "domain": "D1.0",
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "processStatus": "COMPLETED PROCESS WITH EXTERNAL SYSTEM",
+              "draftCRCRRequestorWithOutURI": "ja660w",
+              "mopOwnerWithOutURI": "ja660w",
+              "createdByWithOutURI": "ja660w"
+            },
+            {
+              "uniqueKey": "UK_40853_4698225",
+              "technologyFlex": [
+                "VOIP (vUSP-vVoLTE)"
+              ],
+              "prtechnologyFlex": [
+                "VOIP (vUSP-vVoLTE)"
+              ],
+              "crtechnologyFlex": [
+                "VOIP (vUSP-vVoLTE)"
+              ],
+              "approvalStatus": "Pending Approval",
+              "category": "VOIP",
+              "type": "D2.0",
+              "item": "CALENDAR",
+              "summary": "AIC-S,D2 OSS,123123a:No Cust. & Yes Prov. Impact",
+              "plannedStartDate": "1548363480",
+              "plannedEndDate": "1548709200",
+              "assigneeGroup": "GNO-NRC-VOIP-CORD",
+              "changeId": "CHG000004698225",
+              "createdDate": "1548190747",
+              "assetType": "AIC-Infra",
+              "lastModifiedDate": "1548192319",
+              "lastModifiedBy": "ja660w",
+              "addedDeviceRecCountD2": 500,
+              "nACheckbox": true,
+              "attId": "5c4784032b1dbfd325096b38",
+              "createdBy": "ja660w",
+              "createdAt": "1548190747",
+              "changeID": "CHG000004698225",
+              "cRStatus": "Assigned",
+              "cRApprovalStatus": "Pending Approval",
+              "mopOwner": "ja660w",
+              "workDescription": "test",
+              "planningRecordComments": "ja660w(01/22/2019 14:58)Cloned from PR ID: PR0040743_EPOC 01-22-2019 14:58:33",
+              "draftCRCRRequestor": "ja660w",
+              "prId": "PR0040853",
+              "targetSubmitDate": "1548104280",
+              "gMOP": "No",
+              "gMOPFlex": false,
+              "workType": "Other",
+              "assetListFlex": [
+                "Demo1",
+                "Demo10",
+                "Demo100",
+                "Demo101",
+                "Demo102",
+                "Demo103",
+                "Demo104",
+                "Demo105",
+                "Demo106",
+                "Demo107",
+                "Demo108",
+                "Demo109",
+                "Demo11",
+                "Demo110",
+                "Demo111",
+                "Demo112",
+                "Demo113",
+                "Demo114",
+                "Demo115",
+                "Demo116",
+                "Demo117",
+                "Demo118",
+                "Demo119",
+                "Demo12",
+                "Demo120",
+                "Demo121",
+                "Demo122",
+                "Demo123",
+                "Demo124",
+                "Demo125",
+                "Demo126",
+                "Demo127",
+                "Demo128",
+                "Demo129",
+                "Demo13",
+                "Demo130",
+                "Demo131",
+                "Demo132",
+                "Demo133",
+                "Demo134",
+                "Demo135",
+                "Demo136",
+                "Demo137",
+                "Demo138",
+                "Demo139",
+                "Demo14",
+                "Demo140",
+                "Demo141",
+                "Demo142",
+                "Demo143",
+                "Demo144",
+                "Demo145",
+                "Demo146",
+                "Demo147",
+                "Demo148",
+                "Demo149",
+                "Demo15",
+                "Demo150",
+                "Demo151",
+                "Demo152",
+                "Demo153",
+                "Demo154",
+                "Demo155",
+                "Demo156",
+                "Demo157",
+                "Demo158",
+                "Demo159",
+                "Demo16",
+                "Demo160",
+                "Demo161",
+                "Demo162",
+                "Demo163",
+                "Demo164",
+                "Demo165",
+                "Demo166",
+                "Demo167",
+                "Demo168",
+                "Demo169",
+                "Demo17",
+                "Demo170",
+                "Demo171",
+                "Demo172",
+                "Demo173",
+                "Demo174",
+                "Demo175",
+                "Demo176",
+                "Demo177",
+                "Demo178",
+                "Demo179",
+                "Demo18",
+                "Demo180",
+                "Demo181",
+                "Demo182",
+                "Demo183",
+                "Demo184",
+                "Demo185",
+                "Demo186",
+                "Demo187",
+                "Demo188",
+                "Demo189",
+                "Demo19",
+                "Demo190",
+                "Demo191",
+                "Demo192",
+                "Demo193",
+                "Demo194",
+                "Demo195",
+                "Demo196",
+                "Demo197",
+                "Demo198",
+                "Demo199",
+                "Demo2",
+                "Demo20",
+                "Demo200",
+                "Demo201",
+                "Demo202",
+                "Demo203",
+                "Demo204",
+                "Demo205",
+                "Demo206",
+                "Demo207",
+                "Demo208",
+                "Demo209",
+                "Demo21",
+                "Demo210",
+                "Demo211",
+                "Demo212",
+                "Demo213",
+                "Demo214",
+                "Demo215",
+                "Demo216",
+                "Demo217",
+                "Demo218",
+                "Demo219",
+                "Demo22",
+                "Demo220",
+                "Demo221",
+                "Demo222",
+                "Demo223",
+                "Demo224",
+                "Demo225",
+                "Demo226",
+                "Demo227",
+                "Demo228",
+                "Demo229",
+                "Demo23",
+                "Demo230",
+                "Demo231",
+                "Demo232",
+                "Demo233",
+                "Demo234",
+                "Demo235",
+                "Demo236",
+                "Demo237",
+                "Demo238",
+                "Demo239",
+                "Demo24",
+                "Demo240",
+                "Demo241",
+                "Demo242",
+                "Demo243",
+                "Demo244",
+                "Demo245",
+                "Demo246",
+                "Demo247",
+                "Demo248",
+                "Demo249",
+                "Demo25",
+                "Demo250",
+                "Demo251",
+                "Demo252",
+                "Demo253",
+                "Demo254",
+                "Demo255",
+                "Demo256",
+                "Demo257",
+                "Demo258",
+                "Demo259",
+                "Demo26",
+                "Demo260",
+                "Demo261",
+                "Demo262",
+                "Demo263",
+                "Demo264",
+                "Demo265",
+                "Demo266",
+                "Demo267",
+                "Demo268",
+                "Demo269",
+                "Demo27",
+                "Demo270",
+                "Demo271",
+                "Demo272",
+                "Demo273",
+                "Demo274",
+                "Demo275",
+                "Demo276",
+                "Demo277",
+                "Demo278",
+                "Demo279",
+                "Demo28",
+                "Demo280",
+                "Demo281",
+                "Demo282",
+                "Demo283",
+                "Demo284",
+                "Demo285",
+                "Demo286",
+                "Demo287",
+                "Demo288",
+                "Demo289",
+                "Demo29",
+                "Demo290",
+                "Demo291",
+                "Demo292",
+                "Demo293",
+                "Demo294",
+                "Demo295",
+                "Demo296",
+                "Demo297",
+                "Demo298",
+                "Demo299",
+                "Demo3",
+                "Demo30",
+                "Demo300",
+                "Demo301",
+                "Demo302",
+                "Demo303",
+                "Demo304",
+                "Demo305",
+                "Demo306",
+                "Demo307",
+                "Demo308",
+                "Demo309",
+                "Demo31",
+                "Demo310",
+                "Demo311",
+                "Demo312",
+                "Demo313",
+                "Demo314",
+                "Demo315",
+                "Demo316",
+                "Demo317",
+                "Demo318",
+                "Demo319",
+                "Demo32",
+                "Demo320",
+                "Demo321",
+                "Demo322",
+                "Demo323",
+                "Demo324",
+                "Demo325",
+                "Demo326",
+                "Demo327",
+                "Demo328",
+                "Demo329",
+                "Demo33",
+                "Demo330",
+                "Demo331",
+                "Demo332",
+                "Demo333",
+                "Demo334",
+                "Demo335",
+                "Demo336",
+                "Demo337",
+                "Demo338",
+                "Demo339",
+                "Demo34",
+                "Demo340",
+                "Demo341",
+                "Demo342",
+                "Demo343",
+                "Demo344",
+                "Demo345",
+                "Demo346",
+                "Demo347",
+                "Demo348",
+                "Demo349",
+                "Demo35",
+                "Demo350",
+                "Demo351",
+                "Demo352",
+                "Demo353",
+                "Demo354",
+                "Demo355",
+                "Demo356",
+                "Demo357",
+                "Demo358",
+                "Demo359",
+                "Demo36",
+                "Demo360",
+                "Demo361",
+                "Demo362",
+                "Demo363",
+                "Demo364",
+                "Demo365",
+                "Demo366",
+                "Demo367",
+                "Demo368",
+                "Demo369",
+                "Demo37",
+                "Demo370",
+                "Demo371",
+                "Demo372",
+                "Demo373",
+                "Demo374",
+                "Demo375",
+                "Demo376",
+                "Demo377",
+                "Demo378",
+                "Demo379",
+                "Demo38",
+                "Demo380",
+                "Demo381",
+                "Demo382",
+                "Demo383",
+                "Demo384",
+                "Demo385",
+                "Demo386",
+                "Demo387",
+                "Demo388",
+                "Demo389",
+                "Demo39",
+                "Demo390",
+                "Demo391",
+                "Demo392",
+                "Demo393",
+                "Demo394",
+                "Demo395",
+                "Demo396",
+                "Demo397",
+                "Demo398",
+                "Demo399",
+                "Demo4",
+                "Demo40",
+                "Demo400",
+                "Demo41",
+                "Demo42",
+                "Demo43",
+                "Demo44",
+                "Demo45",
+                "Demo46",
+                "Demo47",
+                "Demo48",
+                "Demo49",
+                "Demo5",
+                "Demo50",
+                "Demo51",
+                "Demo52",
+                "Demo53",
+                "Demo54",
+                "Demo55",
+                "Demo56",
+                "Demo57",
+                "Demo58",
+                "Demo59",
+                "Demo6",
+                "Demo60",
+                "Demo61",
+                "Demo62",
+                "Demo63",
+                "Demo64",
+                "Demo65",
+                "Demo66",
+                "Demo67",
+                "Demo68",
+                "Demo69",
+                "Demo7",
+                "Demo70",
+                "Demo71",
+                "Demo72",
+                "Demo73",
+                "Demo74",
+                "Demo75",
+                "Demo76",
+                "Demo77",
+                "Demo78",
+                "Demo79",
+                "Demo8",
+                "Demo80",
+                "Demo81",
+                "Demo82",
+                "Demo83",
+                "Demo84",
+                "Demo85",
+                "Demo86",
+                "Demo87",
+                "Demo88",
+                "Demo89",
+                "Demo9",
+                "Demo90",
+                "Demo91",
+                "Demo92",
+                "Demo93",
+                "Demo94",
+                "Demo95",
+                "Demo96",
+                "Demo97",
+                "Demo98",
+                "Demo99",
+                "PARAG",
+                "Test1",
+                "Test10",
+                "Test100",
+                "Test12",
+                "Test13",
+                "Test14",
+                "Test15",
+                "Test16",
+                "Test17",
+                "Test18",
+                "Test19",
+                "Test2",
+                "Test20",
+                "Test21",
+                "Test22",
+                "Test23",
+                "Test24",
+                "Test25",
+                "Test26",
+                "Test27",
+                "Test28",
+                "Test29",
+                "Test3",
+                "Test30",
+                "Test31",
+                "Test32",
+                "Test33",
+                "Test34",
+                "Test35",
+                "Test36",
+                "Test37",
+                "Test38",
+                "Test39",
+                "Test4",
+                "Test40",
+                "Test41",
+                "Test42",
+                "Test43",
+                "Test44",
+                "Test45",
+                "Test46",
+                "Test47",
+                "Test48",
+                "Test49",
+                "Test5",
+                "Test50",
+                "Test51",
+                "Test52",
+                "Test53",
+                "Test54",
+                "Test55",
+                "Test56",
+                "Test57",
+                "Test58",
+                "Test59",
+                "Test6",
+                "Test60",
+                "Test61",
+                "Test62",
+                "Test63",
+                "Test64",
+                "Test65",
+                "Test66",
+                "Test67",
+                "Test68",
+                "Test69",
+                "Test7",
+                "Test70",
+                "Test71",
+                "Test72",
+                "Test73",
+                "Test74",
+                "Test75",
+                "Test76",
+                "Test77",
+                "Test78",
+                "Test79",
+                "Test8",
+                "Test80",
+                "Test81",
+                "Test82",
+                "Test83",
+                "Test84",
+                "Test85",
+                "Test86",
+                "Test87",
+                "Test88",
+                "Test89",
+                "Test9",
+                "Test90",
+                "Test91",
+                "Test92",
+                "Test93",
+                "Test94",
+                "Test95",
+                "Test96",
+                "Test97",
+                "Test98",
+                "Test99"
+              ],
+              "attachmentCount": 2,
+              "colorCodingMap": {
+                "plannedStartDate": "assigntarget",
+                "cRStatus": "assigned",
+                "changeId": "pendappf",
+                "plannedEndDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "mopOwner": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "changeId": "https://aotswcj.test.att.com:14300/arsys/servlet/ViewFormServlet?form=CHG%3AChange&server=AOTSCM14200&eid="
+              },
+              "domain": "D2.0",
+              "listZoneSelected": [
+                "2"
+              ],
+              "listServiceAffectedAll": [
+                "AT&T CVoIP"
+              ],
+              "changeIdentifierSelected": [
+                "AIC-S",
+                "D2 OSS"
+              ],
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "dataCentreCode": [
+                "AMS1",
+                "AUS1"
+              ],
+              "selectedCilliDomain2": [
+                {
+                  "cLLI": "AMSTNLBW",
+                  "location": "NETHERLANDS",
+                  "city": "AMSTERDAM",
+                  "dataCntrCd": [
+                    "AMS1"
+                  ]
+                },
+                {
+                  "cLLI": "AUSTTXGR",
+                  "location": "TEXAS",
+                  "city": "AUSTIN",
+                  "dataCntrCd": [
+                    "AUS1"
+                  ]
+                }
+              ],
+              "cLLICountDomain2": 2,
+              "processStatus": "PROCESSING STARTED WITH EXTERNAL SYSTEM",
+              "draftCRCRRequestorWithOutURI": "ja660w",
+              "mopOwnerWithOutURI": "ja660w",
+              "createdByWithOutURI": "ja660w"
+            },
+            {
+              "uniqueKey": "UK_40866_4700057",
+              "technologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "prtechnologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "crtechnologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "approvalStatus": "Approval Required",
+              "category": "VOIP",
+              "type": "ATS",
+              "item": "TEST CR (IGNORE)",
+              "summary": "TEST:No Cust. & No Prov. Impact",
+              "plannedStartDate": "1548769860",
+              "plannedEndDate": "1548769980",
+              "assigneeGroup": "GNO-NRC-VOIP-APPS",
+              "changeId": "CHG000004700057",
+              "createdDate": "1548683532",
+              "lastModifiedBy": "ja660w",
+              "cLLIRecordflex": [
+                {
+                  "cLLI": "ATLNGAGB",
+                  "location": "GEORGIA",
+                  "city": "ATLANTA"
+                }
+              ],
+              "nACheckbox": true,
+              "attId": "5c4f08f52b1dbfd325096b90",
+              "createdBy": "ja660w",
+              "createdAt": "1548683532",
+              "changeID": "CHG000004700057",
+              "cRStatus": "Assigned",
+              "cRApprovalStatus": "Approval Required",
+              "mopOwner": "ja660w",
+              "workDescription": "Test Ticket Please ignore",
+              "draftCRCRRequestor": "ja660w",
+              "prId": "PR0040866",
+              "targetSubmitDate": "1548337860",
+              "gMOP": "No",
+              "gMOPFlex": false,
+              "workType": "Other",
+              "assetListFlex": [],
+              "countCLLI": 1,
+              "colorCodingMap": {
+                "plannedStartDate": "assigntarget",
+                "cRStatus": "assigned",
+                "plannedEndDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "mopOwner": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "changeId": "https://aotswcj.test.att.com:14300/arsys/servlet/ViewFormServlet?form=CHG%3AChange&server=AOTSCM14200&eid="
+              },
+              "domain": "D1.0",
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "processStatus": "PROCESSING STARTED WITH EXTERNAL SYSTEM",
+              "draftCRCRRequestorWithOutURI": "ja660w",
+              "mopOwnerWithOutURI": "ja660w",
+              "createdByWithOutURI": "ja660w"
+            },
+            {
+              "uniqueKey": "UK_40877_4700095",
+              "technologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "prtechnologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "crtechnologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "approvalStatus": "Approval Required",
+              "category": "VOIP",
+              "type": "ATS",
+              "item": "TEST CR (IGNORE)",
+              "summary": "TEST:No Cust. & No Prov. Impact",
+              "plannedStartDate": "1548776880",
+              "plannedEndDate": "1548777000",
+              "assigneeGroup": "GNO-NRC-VOIP-APPS",
+              "changeId": "CHG000004700095",
+              "createdDate": "1548690535",
+              "lastModifiedBy": "ja660w",
+              "cLLIRecordflex": [
+                {
+                  "cLLI": "ATLNGAGB",
+                  "location": "GEORGIA",
+                  "city": "ATLANTA"
+                }
+              ],
+              "nACheckbox": true,
+              "attId": "5c4f24502b1dbfd325096baf",
+              "createdBy": "ja660w",
+              "createdAt": "1548690535",
+              "changeID": "CHG000004700095",
+              "cRStatus": "Assigned",
+              "cRApprovalStatus": "Approval Required",
+              "mopOwner": "ja660w",
+              "workDescription": "Test Ticket Please ignore",
+              "draftCRCRRequestor": "ja660w",
+              "prId": "PR0040877",
+              "targetSubmitDate": "1548344880",
+              "gMOP": "No",
+              "gMOPFlex": false,
+              "workType": "Other",
+              "assetListFlex": [],
+              "countCLLI": 1,
+              "colorCodingMap": {
+                "plannedStartDate": "assigntarget",
+                "cRStatus": "assigned",
+                "plannedEndDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "mopOwner": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "changeId": "https://aotswcj.test.att.com:14300/arsys/servlet/ViewFormServlet?form=CHG%3AChange&server=AOTSCM14200&eid="
+              },
+              "domain": "D1.0",
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "processStatus": "PROCESSING STARTED WITH EXTERNAL SYSTEM",
+              "draftCRCRRequestorWithOutURI": "ja660w",
+              "mopOwnerWithOutURI": "ja660w",
+              "createdByWithOutURI": "ja660w"
+            },
+            {
+              "uniqueKey": "UK_40881_4700728",
+              "technologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "prtechnologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "crtechnologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "approvalStatus": "Pending Approval",
+              "category": "VOIP",
+              "type": "ATS",
+              "item": "TEST CR (IGNORE)",
+              "summary": "fsfgsrdagfdgv:No Cust. & No Prov. Impact",
+              "plannedStartDate": "1548945900",
+              "plannedEndDate": "1549032420",
+              "assigneeGroup": "GNO-NRC-VOIP-APPS",
+              "changeId": "CHG000004700728",
+              "createdDate": "1548859631",
+              "lastModifiedBy": "ja660w",
+              "cLLIRecordflex": [
+                {
+                  "cLLI": "CHCGILCL",
+                  "location": "ILLINOIS",
+                  "city": "CHICAGO"
+                }
+              ],
+              "nACheckbox": true,
+              "attId": "5c51b8b72b1dbfd325096bd4",
+              "createdBy": "ja660w",
+              "createdAt": "1548859631",
+              "changeID": "CHG000004700728",
+              "cRStatus": "Assigned",
+              "cRApprovalStatus": "Pending Approval",
+              "mopOwner": "ja660w",
+              "workDescription": "fsrfrsrvgdfvfdb",
+              "draftCRCRRequestor": "ja660w",
+              "prId": "PR0040881",
+              "targetSubmitDate": "1548686700",
+              "gMOP": "No",
+              "gMOPFlex": false,
+              "workType": "Capacity Upgrade",
+              "assetListFlex": [],
+              "countCLLI": 1,
+              "colorCodingMap": {
+                "plannedStartDate": "assigntarget",
+                "cRStatus": "assigned",
+                "changeId": "pendappf",
+                "plannedEndDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "mopOwner": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "changeId": "https://aotswcj.test.att.com:14300/arsys/servlet/ViewFormServlet?form=CHG%3AChange&server=AOTSCM14200&eid="
+              },
+              "domain": "D1.0",
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "processStatus": "COMPLETED PROCESS WITH EXTERNAL SYSTEM",
+              "draftCRCRRequestorWithOutURI": "ja660w",
+              "mopOwnerWithOutURI": "ja660w",
+              "createdByWithOutURI": "ja660w"
+            },
+            {
+              "uniqueKey": "UK_40901_x",
+              "technologyFlex": [
+                "VOIP (vUSP-vVoLTE)"
+              ],
+              "prtechnologyFlex": [
+                "VOIP (vUSP-vVoLTE)"
+              ],
+              "crtechnologyFlex": [
+                "VOIP (vUSP-vVoLTE)"
+              ],
+              "approverRolesList": [
+                null
+              ],
+              "approverSignatureList": [
+                null
+              ],
+              "approverSignatureStatus": [
+                null
+              ],
+              "category": "VOIP",
+              "type": "D2.0",
+              "item": "TEST CR (IGNORE)",
+              "summary": "TEST",
+              "plannedStartDate": "1552295940",
+              "plannedEndDate": "1552382460",
+              "assigneeGroup": "GNO-NRC-VOIP-vAPPS",
+              "createdDate": "1552040425",
+              "apprec": [
+                {}
+              ],
+              "attId": "5c8241b7f2c39693d6d552bb",
+              "createdBy": "ja660w",
+              "cRStatus": "Assigned",
+              "mopOwner": "ja660w",
+              "workDescription": "Test Ticket Please ignore",
+              "draftCRCRRequestor": "ja660w",
+              "prId": "PR0040901",
+              "targetSubmitDate": "1551863940",
+              "gMOP": "No",
+              "workType": "Other",
+              "impactedGroup": [
+                "None"
+              ],
+              "additionalGroup": [],
+              "assetListFlex": [
+                "TEST"
+              ],
+              "colorCodingMap": {
+                "plannedStartDate": "assigntarget",
+                "cRStatus": "assigned",
+                "plannedEndDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "mopOwner": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "assigneeConcat": "http://webphone.att.com/cgi-bin/webphones.pl?id="
+              },
+              "domain": "D2.0",
+              "listZoneSelected": [
+                "1"
+              ],
+              "listServiceAffectedAll": [
+                "AIC"
+              ],
+              "changeIdentifierSelected": [
+                "AIC D2 OSS"
+              ],
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "dataCentreCode": [
+                "AKR1"
+              ],
+              "assigneeConcat": [],
+              "draftCRCRRequestorWithOutURI": "ja660w",
+              "mopOwnerWithOutURI": "ja660w",
+              "assigneeWithOutURI": ""
+            },
+            {
+              "uniqueKey": "UK_40900_x",
+              "technologyFlex": [
+                "VOIP (vUSP-vVoLTE)"
+              ],
+              "prtechnologyFlex": [
+                "VOIP (vUSP-vVoLTE)"
+              ],
+              "approverRolesList": [
+                null
+              ],
+              "approverSignatureList": [
+                null
+              ],
+              "approverSignatureStatus": [
+                null
+              ],
+              "category": "VOIP",
+              "plannedStartDate": "1552295820",
+              "plannedEndDate": "1552382340",
+              "assigneeGroup": "GNO-NRC-VOIP-vAPPS",
+              "apprec": [
+                {}
+              ],
+              "attId": "5c824160f2c39693d6d552ba",
+              "createdBy": "ja660w",
+              "cRStatus": "Planning",
+              "mopOwner": "ja660w",
+              "workDescription": "Test Ticket Please ignore",
+              "draftCRCRRequestor": "ja660w",
+              "prId": "PR0040900",
+              "targetSubmitDate": "1551863820",
+              "gMOP": "No",
+              "workType": "Other",
+              "impactedGroup": [
+                "None"
+              ],
+              "additionalGroup": [],
+              "assetListFlex": [],
+              "colorCodingMap": {
+                "targetSubmitDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "mopOwner": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "assigneeConcat": "http://webphone.att.com/cgi-bin/webphones.pl?id="
+              },
+              "domain": "D2.0",
+              "listZoneSelected": [],
+              "listServiceAffectedAll": [],
+              "changeIdentifierSelected": [],
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "assigneeConcat": [],
+              "draftCRCRRequestorWithOutURI": "ja660w",
+              "mopOwnerWithOutURI": "ja660w",
+              "assigneeWithOutURI": ""
+            },
+            {
+              "uniqueKey": "UK_32211_x",
+              "technologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "prtechnologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "crtechnologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "approverRolesList": [
+                null
+              ],
+              "approverSignatureList": [
+                null
+              ],
+              "approverSignatureStatus": [
+                null
+              ],
+              "approvalStatus": "Pending Approval",
+              "category": "VOIP",
+              "type": "ATS",
+              "item": "TEST CR (IGNORE)",
+              "summary": "testeet",
+              "plannedStartDate": "1546327560",
+              "plannedEndDate": "1549092480",
+              "assigneeGroup": "GNO-NRC-VOIP-APPS",
+              "createdDate": "1546241781",
+              "apprec": [
+                {}
+              ],
+              "attId": "5c29c4c8a2d346e166e1c291",
+              "createdBy": "ja660w",
+              "cRStatus": "Assigned",
+              "cRApprovalStatus": "Pending Approval",
+              "mopOwner": "ja660w",
+              "workDescription": "test",
+              "draftCRCRRequestor": "ja660w",
+              "prId": "PR0032211",
+              "targetSubmitDate": "1545895560",
+              "gMOP": "No",
+              "workType": "Application Upgrade",
+              "impactedGroup": [
+                "None"
+              ],
+              "additionalGroup": [],
+              "assetListFlex": [],
+              "colorCodingMap": {
+                "plannedStartDate": "assigntarget",
+                "cRStatus": "assigned",
+                "changeId": "pendappf",
+                "plannedEndDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "mopOwner": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "assigneeConcat": "http://webphone.att.com/cgi-bin/webphones.pl?id="
+              },
+              "domain": "D1.0",
+              "listServiceAffectedAll": [],
+              "changeIdentifierSelected": [],
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "dataCentreCode": [],
+              "assigneeConcat": [],
+              "draftCRCRRequestorWithOutURI": "ja660w",
+              "mopOwnerWithOutURI": "ja660w",
+              "assigneeWithOutURI": ""
+            },
+            {
+              "uniqueKey": "UK_40847_x",
+              "technologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "prtechnologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "category": "VOIP",
+              "type": "ATS",
+              "item": "TEST CR (IGNORE)",
+              "summary": "ffdg",
+              "plannedStartDate": "1548241020",
+              "plannedEndDate": "1548673140",
+              "assigneeGroup": "GNO-NRC-VOIP-APPS",
+              "createdDate": "1548154720",
+              "lastModifiedBy": "ja660w",
+              "cLLIRecordflex": [
+                {
+                  "cLLI": "ATLNGATL",
+                  "location": "GEORGIA",
+                  "city": "ATLANTA"
+                }
+              ],
+              "nACheckbox": true,
+              "attId": "5c46f7252b1dbf71551763f3",
+              "createdBy": "ja660w",
+              "createdAt": "1548154720",
+              "cRStatus": "Assigned",
+              "mopOwner": "ja660w",
+              "workDescription": "fsfdbsdtb",
+              "draftCRCRRequestor": "ja660w",
+              "prId": "PR0040847",
+              "targetSubmitDate": "1547809020",
+              "gMOP": "No",
+              "gMOPFlex": false,
+              "workType": "Migration",
+              "assetListFlex": [],
+              "countCLLI": 1,
+              "colorCodingMap": {
+                "plannedStartDate": "assigntarget",
+                "cRStatus": "assigned",
+                "plannedEndDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "mopOwner": "http://webphone.att.com/cgi-bin/webphones.pl?id="
+              },
+              "domain": "D1.0",
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "processStatus": "COMPLETED PROCESS WITH ERROR TO EXTERNAL SYSTEM. Error: OverdueOpenCRs - New CRs can't be created due to open, overdue tickets. Please close following open change tickets past their completion date. CHG000004695424",
+              "draftCRCRRequestorWithOutURI": "ja660w",
+              "mopOwnerWithOutURI": "ja660w",
+              "createdByWithOutURI": "ja660w"
+            },
+            {
+              "uniqueKey": "UK_40844_x",
+              "technologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "prtechnologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "category": "VOIP",
+              "plannedStartDate": "1548367800",
+              "plannedEndDate": "1548713520",
+              "assigneeGroup": "GNO-NRC-VOIP-APPS",
+              "lastModifiedBy": "pg074k",
+              "nACheckbox": false,
+              "attId": "5c4643702b1dbf71551763e8",
+              "createdBy": "pg074k",
+              "createdAt": "1548108656",
+              "cRStatus": "Planning",
+              "mopOwner": "pg074k",
+              "workDescription": "TEST CR",
+              "draftCRCRRequestor": "pg074k",
+              "prId": "PR0040844",
+              "targetSubmitDate": "1548108600",
+              "gMOP": "Yes",
+              "gMOPFlex": true,
+              "workType": "Application Upgrade",
+              "assetListFlex": [],
+              "colorCodingMap": {
+                "targetSubmitDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "mopOwner": "http://webphone.att.com/cgi-bin/webphones.pl?id="
+              },
+              "domain": "D1.0",
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "draftCRCRRequestorWithOutURI": "pg074k",
+              "mopOwnerWithOutURI": "pg074k",
+              "createdByWithOutURI": "pg074k"
+            },
+            {
+              "uniqueKey": "UK_x_x",
+              "technologyFlex": [],
+              "prtechnologyFlex": [],
+              "item": "DBA/Netbackup",
+              "plannedStartDate": "1553659200",
+              "plannedEndDate": "1556596800",
+              "attId": "5c61d44a6be3b7bd512007c4",
+              "planningRecordComments": "[ If CR needs to span more than 7 calendar days (168 hours), enter the reason here ]",
+              "gMOP": "No",
+              "impactedGroup": [],
+              "additionalGroup": [],
+              "assetListFlex": [],
+              "testPlanURLMap": {
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "assigneeConcat": "http://webphone.att.com/cgi-bin/webphones.pl?id="
+              },
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "assigneeConcat": []
+            },
+            {
+              "uniqueKey": "UK_40894_x",
+              "technologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "prtechnologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "crtechnologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "approverRolesList": [
+                null
+              ],
+              "approverSignatureList": [
+                null
+              ],
+              "approverSignatureStatus": [
+                null
+              ],
+              "category": "VOIP",
+              "type": "ATS",
+              "item": "TEST CR (IGNORE)",
+              "summary": "Test",
+              "plannedStartDate": "1552293000",
+              "plannedEndDate": "1552379520",
+              "assigneeGroup": "GNO-NRC-VOIP-APPS",
+              "createdDate": "1552037630",
+              "apprec": [
+                {}
+              ],
+              "attId": "5c823644c35570f4e3a1ee1b",
+              "createdBy": "ja660w",
+              "cRStatus": "Assigned",
+              "mopOwner": "ja660w",
+              "workDescription": "test",
+              "draftCRCRRequestor": "ja660w",
+              "prId": "PR0040894",
+              "targetSubmitDate": "1551861000",
+              "gMOP": "No",
+              "workType": "Puerto Rico: 5ESS",
+              "impactedGroup": [
+                "None"
+              ],
+              "additionalGroup": [],
+              "assetListFlex": [],
+              "colorCodingMap": {
+                "plannedStartDate": "assigntarget",
+                "cRStatus": "assigned",
+                "plannedEndDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "mopOwner": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "assigneeConcat": "http://webphone.att.com/cgi-bin/webphones.pl?id="
+              },
+              "domain": "D1.0",
+              "listServiceAffectedAll": [],
+              "changeIdentifierSelected": [],
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "dataCentreCode": [],
+              "assigneeConcat": [],
+              "draftCRCRRequestorWithOutURI": "ja660w",
+              "mopOwnerWithOutURI": "ja660w",
+              "assigneeWithOutURI": ""
+            },
+            {
+              "uniqueKey": "UK_39155_x",
+              "technologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "prtechnologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "category": "VOIP",
+              "plannedStartDate": "1548242160",
+              "plannedEndDate": "1548933480",
+              "assigneeGroup": "GNO-NRC-VOIP-APPS",
+              "closureCode": "Cancelled",
+              "attId": "5c35d8622b1dbf53c77f88db",
+              "createdBy": "ja660w",
+              "cRStatus": "Cancelled",
+              "mopOwner": "ja660w",
+              "workDescription": "sfsdvdzfvbdzfb",
+              "draftCRCRRequestor": "ja660w",
+              "prId": "PR0039155",
+              "targetSubmitDate": "1547810160",
+              "gMOP": "No",
+              "workType": "Application Upgrade",
+              "impactedGroup": [
+                "None"
+              ],
+              "additionalGroup": [],
+              "assetListFlex": [],
+              "colorCodingMap": {
+                "cRStatus": "cancel",
+                "check": "hidecheckbox"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "mopOwner": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "assigneeConcat": "http://webphone.att.com/cgi-bin/webphones.pl?id="
+              },
+              "domain": "D1.0",
+              "listServiceAffectedAll": [],
+              "changeIdentifierSelected": [],
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "assigneeConcat": [],
+              "draftCRCRRequestorWithOutURI": "ja660w",
+              "mopOwnerWithOutURI": "ja660w"
+            },
+            {
+              "uniqueKey": "UK_40898_x",
+              "technologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "prtechnologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "crtechnologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "approverRolesList": [
+                null
+              ],
+              "approverSignatureList": [
+                null
+              ],
+              "approverSignatureStatus": [
+                null
+              ],
+              "category": "VOIP",
+              "type": "ATS",
+              "item": "TEST CR (IGNORE)",
+              "summary": "TEST",
+              "plannedStartDate": "1552295700",
+              "plannedEndDate": "1552382220",
+              "assigneeGroup": "GNO-NRC-VOIP-APPS",
+              "createdDate": "1552040199",
+              "apprec": [
+                {}
+              ],
+              "attId": "5c8240d6f2c39693d6d552b9",
+              "createdBy": "ja660w",
+              "cRStatus": "Assigned",
+              "mopOwner": "ja660w",
+              "workDescription": "Test Ticket Please ignore",
+              "draftCRCRRequestor": "ja660w",
+              "prId": "PR0040898",
+              "targetSubmitDate": "1551863700",
+              "gMOP": "No",
+              "workType": "Other",
+              "impactedGroup": [
+                "None"
+              ],
+              "additionalGroup": [],
+              "assetListFlex": [],
+              "colorCodingMap": {
+                "plannedStartDate": "assigntarget",
+                "cRStatus": "assigned",
+                "plannedEndDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "mopOwner": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "assigneeConcat": "http://webphone.att.com/cgi-bin/webphones.pl?id="
+              },
+              "domain": "D1.0",
+              "listServiceAffectedAll": [],
+              "changeIdentifierSelected": [],
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "dataCentreCode": [],
+              "assigneeConcat": [],
+              "draftCRCRRequestorWithOutURI": "ja660w",
+              "mopOwnerWithOutURI": "ja660w",
+              "assigneeWithOutURI": ""
+            },
+            {
+              "uniqueKey": "UK_40897_x",
+              "technologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "prtechnologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "approverRolesList": [
+                null
+              ],
+              "approverSignatureList": [
+                null
+              ],
+              "approverSignatureStatus": [
+                null
+              ],
+              "category": "VOIP",
+              "plannedStartDate": "1552295580",
+              "plannedEndDate": "1552382100",
+              "assigneeGroup": "GNO-NRC-VOIP-APPS",
+              "apprec": [
+                {}
+              ],
+              "attId": "5c824079c35570f4e3a1ee57",
+              "createdBy": "ja660w",
+              "cRStatus": "Planning",
+              "mopOwner": "ja660w",
+              "workDescription": "Test Ticket Please ignore",
+              "draftCRCRRequestor": "ja660w",
+              "prId": "PR0040897",
+              "targetSubmitDate": "1551863580",
+              "gMOP": "No",
+              "workType": "Other",
+              "impactedGroup": [
+                "None"
+              ],
+              "additionalGroup": [],
+              "assetListFlex": [],
+              "colorCodingMap": {
+                "targetSubmitDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "mopOwner": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "assigneeConcat": "http://webphone.att.com/cgi-bin/webphones.pl?id="
+              },
+              "domain": "D1.0",
+              "listServiceAffectedAll": [],
+              "changeIdentifierSelected": [],
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "assigneeConcat": [],
+              "draftCRCRRequestorWithOutURI": "ja660w",
+              "mopOwnerWithOutURI": "ja660w",
+              "assigneeWithOutURI": ""
+            },
+            {
+              "uniqueKey": "UK_40517_x",
+              "technologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "prtechnologyFlex": [
+                "VOIP (USP-VOLTE)"
+              ],
+              "category": "VOIP",
+              "plannedStartDate": "1547212260",
+              "plannedEndDate": "1548853980",
+              "assigneeGroup": "GNO-NRC-VOIP-APPS",
+              "attId": "5c374bfe2b1dbf53c77f8d87",
+              "createdBy": "ja660w",
+              "cRStatus": "Planning",
+              "mopOwner": "ja660w",
+              "workDescription": "sfasfaesrgedr",
+              "planningRecordComments": "ja660w\t\t(10-01-2019 07:43:26)\r\nCopied from PR0040513_EPOC 10-01-2019 13:41:52",
+              "draftCRCRRequestor": "ja660w",
+              "prId": "PR0040517",
+              "targetSubmitDate": "1546953060",
+              "gMOP": "No",
+              "workType": "Hardware Replacement",
+              "impactedGroup": [
+                "None"
+              ],
+              "additionalGroup": [],
+              "assetListFlex": [],
+              "colorCodingMap": {
+                "targetSubmitDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "mopOwner": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "assigneeConcat": "http://webphone.att.com/cgi-bin/webphones.pl?id="
+              },
+              "domain": "D1.0",
+              "listServiceAffectedAll": [],
+              "changeIdentifierSelected": [],
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "assigneeConcat": [],
+              "draftCRCRRequestorWithOutURI": "ja660w",
+              "mopOwnerWithOutURI": "ja660w",
+              "assigneeWithOutURI": ""
+            },
+            {
+              "uniqueKey": "UK_37320_x",
+              "technologyFlex": [
+                "VOIP (vUSP-vVoLTE)"
+              ],
+              "prtechnologyFlex": [
+                "VOIP (vUSP-vVoLTE)"
+              ],
+              "approverRolesList": [
+                null
+              ],
+              "approverSignatureList": [
+                null
+              ],
+              "approverSignatureStatus": [
+                null
+              ],
+              "category": "VOIP",
+              "plannedStartDate": "1546945500",
+              "plannedEndDate": "1549192020",
+              "assigneeGroup": "GNO-NRC-VOIP-CORD",
+              "apprec": [
+                {}
+              ],
+              "attId": "5c34842c2b1dbf0abe5ad2d0",
+              "createdBy": "ja660w",
+              "cRStatus": "Planning",
+              "mopOwner": "ja660w",
+              "workDescription": "test",
+              "draftCRCRRequestor": "ja660w",
+              "prId": "PR0037320",
+              "targetSubmitDate": "1546513500",
+              "gMOP": "No",
+              "workType": "Other",
+              "impactedGroup": [
+                "None"
+              ],
+              "additionalGroup": [],
+              "assetListFlex": [
+                "dbqx0007v"
+              ],
+              "colorCodingMap": {
+                "targetSubmitDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "mopOwner": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "assigneeConcat": "http://webphone.att.com/cgi-bin/webphones.pl?id="
+              },
+              "domain": "D2.0",
+              "listZoneSelected": [],
+              "listServiceAffectedAll": [],
+              "changeIdentifierSelected": [],
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "assigneeConcat": [],
+              "draftCRCRRequestorWithOutURI": "ja660w",
+              "mopOwnerWithOutURI": "ja660w",
+              "assigneeWithOutURI": ""
+            },
+            {
+              "uniqueKey": "UK_40518_x",
+              "technologyFlex": [
+                "VOIP (vUSP-vVoLTE)"
+              ],
+              "prtechnologyFlex": [
+                "VOIP (vUSP-vVoLTE)"
+              ],
+              "approverRolesList": [
+                null
+              ],
+              "approverSignatureList": [
+                null
+              ],
+              "approverSignatureStatus": [
+                null
+              ],
+              "category": "VOIP",
+              "plannedStartDate": "1547127900",
+              "plannedEndDate": "1548942420",
+              "assigneeGroup": "GNO-NRC-VOIP-vAPPS",
+              "apprec": [
+                {}
+              ],
+              "attId": "5c374cb46be3b7b9d33665b6",
+              "createdBy": "ja660w",
+              "cRStatus": "Planning",
+              "mopOwner": "ja660w",
+              "workDescription": "fsdfsfdf",
+              "draftCRCRRequestor": "ja660w",
+              "prId": "PR0040518",
+              "targetSubmitDate": "1546868700",
+              "gMOP": "No",
+              "workType": "Fast Track Demand",
+              "impactedGroup": [
+                "None"
+              ],
+              "additionalGroup": [],
+              "assetListFlex": [],
+              "colorCodingMap": {
+                "targetSubmitDate": "assigntarget",
+                "workType": "workFastTr"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "mopOwner": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "assigneeConcat": "http://webphone.att.com/cgi-bin/webphones.pl?id="
+              },
+              "domain": "D2.0",
+              "listZoneSelected": [],
+              "listServiceAffectedAll": [],
+              "changeIdentifierSelected": [],
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "assigneeConcat": [],
+              "draftCRCRRequestorWithOutURI": "ja660w",
+              "mopOwnerWithOutURI": "ja660w",
+              "assigneeWithOutURI": ""
+            },
+            {
+              "uniqueKey": "UK_40879_x",
+              "technologyFlex": [
+                "VOIP (vUSP-vVoLTE)"
+              ],
+              "prtechnologyFlex": [
+                "VOIP (vUSP-vVoLTE)"
+              ],
+              "category": "VOIP",
+              "plannedStartDate": "1548754740",
+              "plannedEndDate": "1549359660",
+              "assigneeGroup": "GNO-NRC-VOIP-CORD",
+              "lastModifiedBy": "ja660w",
+              "nACheckbox": false,
+              "attId": "5c501f752b1dbfd325096bcb",
+              "createdBy": "ja660w",
+              "createdAt": "1548754805",
+              "cRStatus": "Planning",
+              "mopOwner": "ja660w",
+              "workDescription": "test",
+              "draftCRCRRequestor": "ja660w",
+              "prId": "PR0040879",
+              "targetSubmitDate": "1548322740",
+              "gMOP": "No",
+              "gMOPFlex": false,
+              "workType": "Other",
+              "assetListFlex": [],
+              "colorCodingMap": {
+                "targetSubmitDate": "assigntarget"
+              },
+              "testPlanURLMap": {
+                "draftCRCRRequestor": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "createdBy": "http://webphone.att.com/cgi-bin/webphones.pl?id=",
+                "mopOwner": "http://webphone.att.com/cgi-bin/webphones.pl?id="
+              },
+              "domain": "D2.0",
+              "active": true,
+              "activeFlexWorklist": "Yes",
+              "draftCRCRRequestorWithOutURI": "ja660w",
+              "mopOwnerWithOutURI": "ja660w",
+              "createdByWithOutURI": "ja660w"
+            }
+          ]
+        }
+      },
+      "ScreenJson": {
+        "name": "PHENOMKanban",
+        "elementType": "complex",
+        "id": "dvPHENOMKanban",
+        "beanClass": "phenomKanban",
+        "listVarId": "kanbanList",
+        "displayFields": "ticketNum,workQueue,reptSvcLineDescText,assetID",
+        "columnField": "cRStatus",
+        "defaultFilter": "cRStatus",
+        "defaultSort": "prId",
+        "enableColumnHeader": true,
+        "elements": [
+          {
+            "name": "lblTicketNum",
+            "elementType": "simple",
+            "beanId": "prId",
+            "orientation": "Left",
+            "id": "lblTicketNum",
+            "type": "OutputLabel",
+            "label": "PR ID : ",
+            "description": "PR ID to display",
+            "elementContainerStyleClass": "",
+            "labelStyleClass": "display_blk black_smallTxt"
+          },
+          {
+            "name": "lblTicketType",
+            "elementType": "simple",
+            "beanId": "technologyFlex",
+            "orientation": "Left",
+            "id": "lblTicketType",
+            "type": "OutputLabel",
+            "label": "Technology(S) : ",
+            "description": "Ticket type to display",
+            "elementContainerStyleClass": "",
+            "labelStyleClass": "display_blk black_smallTxt",
+            "hidden": false
+          },
+          {
+            "name": "lblAssetId",
+            "elementType": "simple",
+            "beanId": "approvalStatus",
+            "orientation": "Left",
+            "id": "lblAssetId",
+            "type": "OutputLabel",
+            "label": "Approval Status : ",
+            "description": "Approval Status :",
+            "elementContainerStyleClass": "",
+            "labelStyleClass": "display_blk black_smallTxt",
+            "hidden":false
+          },
+          {
+            "name": "lblAssetId",
+            "elementType": "simple",
+            "beanId": "changeId",
+            "orientation": "Left",
+            "id": "lblAssetId",
+            "type": "OutputLabel",
+            "label": "Change Id : ",
+            "description": "changeId",
+            "elementContainerStyleClass": "",
+            "labelStyleClass": "display_blk black_smallTxt"
+          },
+          {
+            "name": "lblWorkQueue",
+            "elementType": "simple",
+            "beanId": "workType",
+            "orientation": "Left",
+            "id": "lblWorkQueue",
+            "type": "OutputLabel",
+            "label": "Work Type : ",
+            "description": "Work Type",
+            "elementContainerStyleClass": "",
+            "labelStyleClass": "display_blk black_smallTxt",
+            "hidden": true
+          },
+          {
+            "name": "lblAssetType",
+            "elementType": "simple",
+            "beanId": "listServiceAffectedAll",
+            "orientation": "Left",
+            "id": "lblAssetType",
+            "type": "OutputLabel",
+            "label": "Service Affected : ",
+            "description": "Service Affected",
+            "elementContainerStyleClass": "",
+            "labelStyleClass": "display_blk black_smallTxt",
+            "hidden": true
+          },
+          {
+            "name": "lblReptSvcLineDescText",
+            "elementType": "simple",
+            "beanId": "summary",
+            "orientation": "Left",
+            "id": "lblReptSvcLineDescText",
+            "type": "OutputLabel",
+            "label": "Summery : ",
+            "description": " Summery",
+            "elementContainerStyleClass": "",
+            "labelStyleClass": "display_blk black_smallTxt",
+            "hidden": true
+          },
+          {
+            "name": "lblSeverity",
+            "elementType": "simple",
+            "beanId": "assigneeGroup",
+            "orientation": "Left",
+            "id": "lblSeverity",
+            "type": "OutputLabel",
+            "label": "Assignee Group : ",
+            "description": "Assignee Group ",
+            "elementContainerStyleClass": "",
+            "labelStyleClass": "display_blk black_smallTxt",
+            "hidden": true
+          },
+          {
+            "name": "createdBy",
+            "elementType": "simple",
+            "beanId": "reptSvcLineDescText",
+            "orientation": "Left",
+            "id": "lnkCreatedBy",
+            "type": "HtmlCommandLink",
+            "description": "CreatedBy",
+            "required": false,
+            "elementContainerStyleClass": "",
+            "beanDataType": "createdBy(String)"
+          }
+        ]
+      }
+    }
+  }

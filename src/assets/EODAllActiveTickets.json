@@ -1,0 +1,875 @@
+{
+  "status": "SUCCESS",
+  "responseMap": {
+    "ValueJson": {        
+      "phenomKanban": {
+        "kanbanList": [
+          {
+            "troubleReported": "1551373997",
+            "ticketState": "Active",
+            "ticketSource": "EOD",
+            "ticketNum": "VTM000000728245",
+            "severity": "1 - Critical",
+            "problemAbstract": "High Latency Sending SMS",
+            "nextCheckTime": "1551371402",
+            "managingOrg": "BOTPAR",
+            "lastModifiedBy": "jg3144",
+            "lastModifiedDate": "1551453326",
+            "functionalArea": "WIRELESSSVC",
+            "agentId": "KinseyJ",
+            "activeOrg": "BOTPAR-ASC-M2M",
+            "priority": "Medium",
+            "ticketOwner": "Gomez, Jacqueline",
+            "ticketOpenDate": "1551369602",
+            "colorCodingCSS": "Status_Blink_Blue",
+            "uniqueKey": "VTM000000728245",
+            "categorylist": [
+              null
+            ],
+            "engmnttickelist": [
+              "327327"
+            ],
+            "vTMEngagement": [
+              {
+                "extTicketNo": "327327"
+              }
+            ],
+            "eventType": null,
+            "deploymentType": null,
+            "startDate": null,
+            "endDate": null,
+            "deployCounty": null,
+            "pin": "",
+            "customerFirstName": ""
+          },
+          {
+            "ticketState": "Active",
+            "ticketSource": "EOD",
+            "ticketNum": "VTM00634179",
+            "severity": "1 - Critical",
+            "problemAbstract": "Process Disconnect for the following lines",
+            "nextCheckTime": "1547050183",
+            "managingOrg": "BOTPAR",
+            "lastModifiedBy": "kc3312",
+            "lastModifiedDate": "1547049211",
+            "functionalArea": "WIRELESSSVC",
+            "agentId": "AhmedQuraish",
+            "activeOrg": "BOTPAR-ASC-M2M",
+            "priority": "Medium",
+            "ticketOwner": "S. White, ASCS-HD Manager",
+            "ticketOpenDate": "1547048383",
+            "colorCodingCSS": "Status_Blink_Blue",
+            "uniqueKey": "VTM00634179",
+            "categorylist": [
+              null
+            ],
+            "engmnttickelist": [
+              "327203"
+            ],
+            "vTMEngagement": [
+              {
+                "extTicketNo": "327203"
+              }
+            ],
+            "eventType": null,
+            "deploymentType": null,
+            "startDate": null,
+            "endDate": null,
+            "deployCounty": null,
+            "pin": "",
+            "customerFirstName": ""
+          },
+          {
+            "troubleReported": "1551116317",
+            "ticketState": "Active",
+            "ticketSource": "EOD",
+            "ticketNum": "VTM000000723320",
+            "severity": "1 - Critical",
+            "problemAbstract": "ATT Outage on 45-75 retailers",
+            "nextCheckTime": "1551410400",
+            "managingOrg": "BOTPAR",
+            "lastModifiedBy": "sv629h",
+            "lastModifiedDate": "1551403280",
+            "functionalArea": "WIRELESSSVC",
+            "agentId": "Paoperations",
+            "activeOrg": "BOTPAR-ASC-M2M",
+            "priority": "Medium",
+            "ticketOwner": "Shane V, ASCS-HD Tier II",
+            "ticketOpenDate": "1551114398",
+            "colorCodingCSS": "Status_Blink_Blue",
+            "uniqueKey": "VTM000000723320",
+            "categorylist": [
+              null
+            ],
+            "engmnttickelist": [
+              "327319"
+            ],
+            "vTMEngagement": [
+              {
+                "extTicketNo": "327319"
+              }
+            ],
+            "eventType": null,
+            "deploymentType": null,
+            "startDate": null,
+            "endDate": null,
+            "deployCounty": null,
+            "pin": "",
+            "customerFirstName": ""
+          },
+          {
+            "ticketState": "Active",
+            "ticketSource": "EOD",
+            "ticketNum": "VTM000000718088",
+            "severity": "1 - Critical",
+            "problemAbstract": "new NO CRUISE profile for fedex Airops",
+            "nextCheckTime": "1550771763",
+            "managingOrg": "BOTPAR",
+            "lastModifiedBy": "sw2524",
+            "lastModifiedDate": "1551393429",
+            "functionalArea": "WIRELESSSVC",
+            "agentId": "mf7292",
+            "activeOrg": "BOTPAR-ASC-M2M",
+            "priority": "Medium",
+            "ticketOwner": "Jimenez, Edwin",
+            "ticketOpenDate": "1550769963",
+            "colorCodingCSS": "Status_Blink_Blue",
+            "uniqueKey": "VTM000000718088",
+            "categorylist": [
+              null
+            ],
+            "engmnttickelist": [
+              "327314"
+            ],
+            "vTMEngagement": [
+              {
+                "extTicketNo": "327314"
+              }
+            ],
+            "eventType": null,
+            "deploymentType": null,
+            "startDate": null,
+            "endDate": null,
+            "deployCounty": null,
+            "pin": "",
+            "customerFirstName": ""
+          },
+          {
+            "troubleReported": "1551119794",
+            "ticketState": "Active",
+            "ticketSource": "EOD",
+            "ticketNum": "VTM000000722991",
+            "severity": "3 - Minor",
+            "problemAbstract": "EHWIC LTE card in cisco router showing very low signal",
+            "nextCheckTime": "1551390360",
+            "managingOrg": "BOTPAR",
+            "lastModifiedBy": "ba514m",
+            "lastModifiedDate": "1551391011",
+            "functionalArea": "WIRELESSSVC",
+            "agentId": "storenetworks",
+            "activeOrg": "BOTPAR-ASC-M2M",
+            "priority": "Medium",
+            "ticketOwner": "Brian A., ACSC-HD Tier II",
+            "ticketOpenDate": "1551103504",
+            "colorCodingCSS": "Status_Blink_Blue",
+            "uniqueKey": "VTM000000722991",
+            "categorylist": [
+              null
+            ],
+            "engmnttickelist": [
+              "327318"
+            ],
+            "vTMEngagement": [
+              {
+                "extTicketNo": "327318"
+              }
+            ],
+            "eventType": null,
+            "deploymentType": null,
+            "startDate": null,
+            "endDate": null,
+            "deployCounty": null,
+            "pin": "",
+            "customerFirstName": ""
+          },
+          {
+            "troubleReported": "1551148025",
+            "ticketState": "Active",
+            "ticketSource": "EOD",
+            "ticketNum": "VTM000000724441",
+            "severity": "3 - Minor",
+            "problemAbstract": "Modem disconnected",
+            "nextCheckTime": "1551147130",
+            "managingOrg": "BOTPAR",
+            "lastModifiedBy": "hl351k",
+            "lastModifiedDate": "1551308638",
+            "functionalArea": "WIRELESSSVC",
+            "agentId": "YAlmasoudi",
+            "activeOrg": "BOTPAR-ASC-M2M",
+            "priority": "Medium",
+            "ticketOwner": "Labeach, Hugh",
+            "ticketOpenDate": "1551145330",
+            "colorCodingCSS": "Status_Blink_Blue",
+            "uniqueKey": "VTM000000724441",
+            "categorylist": [
+              null
+            ],
+            "engmnttickelist": [
+              "327322"
+            ],
+            "vTMEngagement": [
+              {
+                "extTicketNo": "327322"
+              }
+            ],
+            "eventType": null,
+            "deploymentType": null,
+            "startDate": null,
+            "endDate": null,
+            "deployCounty": null,
+            "pin": "",
+            "customerFirstName": ""
+          },
+          {
+            "troubleReported": "1551211115",
+            "ticketState": "Active",
+            "ticketSource": "EOD",
+            "ticketNum": "VTM000000725291",
+            "severity": "3 - Minor",
+            "problemAbstract": "GSMS issue sending from our long code account 13138793713 to Canadian customer 3068308600",
+            "nextCheckTime": "1551211256",
+            "managingOrg": "BOTPAR",
+            "lastModifiedBy": "jm1203",
+            "lastModifiedDate": "1551373803",
+            "functionalArea": "WIRELESSSVC",
+            "agentId": "PatchS",
+            "activeOrg": "BOTPAR-ASC-M2M",
+            "priority": "Medium",
+            "ticketOwner": "Martin-Kirkland, Jennifer",
+            "ticketOpenDate": "1551209456",
+            "colorCodingCSS": "Status_Blink_Blue",
+            "uniqueKey": "VTM000000725291",
+            "categorylist": [
+              null
+            ],
+            "engmnttickelist": [
+              "327323"
+            ],
+            "vTMEngagement": [
+              {
+                "extTicketNo": "327323"
+              }
+            ],
+            "eventType": null,
+            "deploymentType": null,
+            "startDate": null,
+            "endDate": null,
+            "deployCounty": null,
+            "pin": "",
+            "customerFirstName": ""
+          },
+          {
+            "troubleReported": "1551293665",
+            "ticketState": "Active",
+            "ticketSource": "EOD",
+            "ticketNum": "VTM000000726881",
+            "severity": "3 - Minor",
+            "problemAbstract": "Change user account access",
+            "nextCheckTime": "1551294266",
+            "managingOrg": "BOTPAR",
+            "lastModifiedBy": "jm1203",
+            "lastModifiedDate": "1551442581",
+            "functionalArea": "WIRELESSSVC",
+            "agentId": "pamatthews",
+            "activeOrg": "BOTPAR-ASC-M2M",
+            "priority": "Medium",
+            "ticketOwner": "Martin-Kirkland, Jennifer",
+            "ticketOpenDate": "1551292466",
+            "colorCodingCSS": "Status_Blink_Blue",
+            "uniqueKey": "VTM000000726881",
+            "categorylist": [
+              null
+            ],
+            "engmnttickelist": [
+              "327324"
+            ],
+            "vTMEngagement": [
+              {
+                "extTicketNo": "327324"
+              }
+            ],
+            "eventType": null,
+            "deploymentType": null,
+            "startDate": null,
+            "endDate": null,
+            "deployCounty": null,
+            "pin": "",
+            "customerFirstName": ""
+          },
+          {
+            "troubleReported": "1551135258",
+            "ticketState": "Cleared",
+            "ticketSource": "EOD",
+            "ticketNum": "VTM000000724075",
+            "severity": "3 - Minor",
+            "problemAbstract": "Error getting on APN",
+            "nextCheckTime": "1551483000",
+            "managingOrg": "BOTPAR",
+            "lastModifiedBy": "jv1275",
+            "lastModifiedDate": "1551400448",
+            "functionalArea": "WIRELESSSVC",
+            "agentId": "bgoodman",
+            "activeOrg": "BOTPAR-ASC-M2M",
+            "priority": "Medium",
+            "ticketOwner": "Valadez, Jason",
+            "ticketOpenDate": "1551134202",
+            "colorCodingCSS": "Status_Green0",
+            "uniqueKey": "VTM000000724075",
+            "categorylist": [
+              null
+            ],
+            "engmnttickelist": [
+              "327321"
+            ],
+            "vTMEngagement": [
+              {
+                "extTicketNo": "327321"
+              }
+            ],
+            "eventType": null,
+            "deploymentType": null,
+            "startDate": null,
+            "endDate": null,
+            "deployCounty": null,
+            "pin": "",
+            "customerFirstName": ""
+          },
+          {
+            "ticketState": "Cleared",
+            "ticketSource": "EOD",
+            "ticketNum": "VTM000000716291",
+            "severity": "3 - Minor",
+            "problemAbstract": "SIM Provisioning",
+            "nextCheckTime": "1550683363",
+            "managingOrg": "BOTPAR",
+            "lastModifiedBy": "ls7388",
+            "lastModifiedDate": "1551249659",
+            "functionalArea": "WIRELESSSVC",
+            "agentId": "akubala",
+            "activeOrg": "BOTPAR-ASC-M2M",
+            "priority": "Medium",
+            "ticketOwner": "Kashif B., ASCS-HD",
+            "ticketOpenDate": "1550681563",
+            "colorCodingCSS": "Status_Blink_Green",
+            "uniqueKey": "VTM000000716291",
+            "categorylist": [
+              null
+            ],
+            "engmnttickelist": [
+              "327312"
+            ],
+            "vTMEngagement": [
+              {
+                "extTicketNo": "327312"
+              }
+            ],
+            "eventType": null,
+            "deploymentType": null,
+            "startDate": null,
+            "endDate": null,
+            "deployCounty": null,
+            "pin": "",
+            "customerFirstName": ""
+          },
+          {
+            "ticketState": "Deferred",
+            "ticketSource": "EOD",
+            "ticketNum": "VTM000000708788",
+            "severity": "1 - Critical",
+            "problemAbstract": "We received the email below. Not sure what this means",
+            "nextCheckTime": "1549986129",
+            "managingOrg": "BOTPAR",
+            "lastModifiedBy": "hl351k",
+            "lastModifiedDate": "1551309052",
+            "functionalArea": "WIRELESSSVC",
+            "agentId": "PatelR",
+            "activeOrg": "BOTPAR-ASC-M2M",
+            "priority": "Medium",
+            "ticketOwner": "Labeach, Hugh",
+            "ticketOpenDate": "1549984329",
+            "colorCodingCSS": "Status_Blink_Black",
+            "uniqueKey": "VTM000000708788",
+            "categorylist": [
+              null
+            ],
+            "engmnttickelist": [
+              "327295"
+            ],
+            "vTMEngagement": [
+              {
+                "extTicketNo": "327295"
+              }
+            ],
+            "eventType": null,
+            "deploymentType": null,
+            "startDate": null,
+            "endDate": null,
+            "deployCounty": null,
+            "pin": "",
+            "customerFirstName": ""
+          },
+          {
+            "ticketState": "Deferred",
+            "ticketSource": "EOD",
+            "ticketNum": "VTM00656678",
+            "severity": "3 - Minor",
+            "problemAbstract": "Unable to send SMS messages to customer 6184010960 when using ATT GSMS system",
+            "nextCheckTime": "1548194849",
+            "managingOrg": "BOTPAR",
+            "lastModifiedBy": "ef3704",
+            "lastModifiedDate": "1551290844",
+            "functionalArea": "WIRELESSSVC",
+            "agentId": "PatchS",
+            "activeOrg": "BOTPAR-ASC-M2M",
+            "priority": "Medium",
+            "ticketOwner": "Evan F, ASCS-HD",
+            "ticketOpenDate": "1548193049",
+            "colorCodingCSS": "Status_Blink_Black",
+            "uniqueKey": "VTM00656678",
+            "categorylist": [
+              null
+            ],
+            "engmnttickelist": [
+              "327242"
+            ],
+            "vTMEngagement": [
+              {
+                "extTicketNo": "327242"
+              }
+            ],
+            "eventType": null,
+            "deploymentType": null,
+            "startDate": null,
+            "endDate": null,
+            "deployCounty": null,
+            "pin": "",
+            "customerFirstName": ""
+          },
+          {
+            "ticketState": "Deferred",
+            "ticketSource": "EOD",
+            "ticketNum": "VTM000000726884",
+            "severity": "3 - Minor",
+            "problemAbstract": "Scientific Games (SSI):  Utilization Report by Rate Plan",
+            "nextCheckTime": "1551294380",
+            "managingOrg": "BOTPAR",
+            "lastModifiedBy": "js1799",
+            "lastModifiedDate": "1551442557",
+            "functionalArea": "WIRELESSSVC",
+            "agentId": "js6610",
+            "activeOrg": "BOTPAR-ASC-M2M",
+            "priority": "Medium",
+            "ticketOwner": "Craig B., ASCS-HD",
+            "ticketOpenDate": "1551292580",
+            "colorCodingCSS": "Status_Blink_Black",
+            "uniqueKey": "VTM000000726884",
+            "categorylist": [
+              null
+            ],
+            "engmnttickelist": [
+              "327325"
+            ],
+            "vTMEngagement": [
+              {
+                "extTicketNo": "327325"
+              }
+            ],
+            "eventType": null,
+            "deploymentType": null,
+            "startDate": null,
+            "endDate": null,
+            "deployCounty": null,
+            "pin": "",
+            "customerFirstName": ""
+          },
+          {
+            "ticketState": "Pending Customer Response",
+            "ticketSource": "EOD",
+            "ticketNum": "VTM000000722977",
+            "severity": "1 - Critical",
+            "problemAbstract": "Data Usage Summary",
+            "nextCheckTime": "1551104737",
+            "managingOrg": "BOTPAR",
+            "lastModifiedBy": "js1799",
+            "lastModifiedDate": "1551442561",
+            "functionalArea": "WIRELESSSVC",
+            "agentId": "CrSmith",
+            "activeOrg": "BOTPAR-ASC-M2M",
+            "priority": "Medium",
+            "ticketOwner": "Craig B., ASCS-HD",
+            "ticketOpenDate": "1551102937",
+            "colorCodingCSS": "Status_Black-Blink_ASCS",
+            "uniqueKey": "VTM000000722977",
+            "categorylist": [
+              null
+            ],
+            "engmnttickelist": [
+              "327317"
+            ],
+            "vTMEngagement": [
+              {
+                "extTicketNo": "327317"
+              }
+            ],
+            "eventType": null,
+            "deploymentType": null,
+            "startDate": null,
+            "endDate": null,
+            "deployCounty": null,
+            "pin": "",
+            "customerFirstName": ""
+          },
+          {
+            "ticketState": "Pending Customer Response",
+            "ticketSource": "EOD",
+            "ticketNum": "VTM000000729488",
+            "severity": "1 - Critical",
+            "problemAbstract": "LA County SMPP two-way texting is showing a 3-minute delay and significantly impacting campaigns",
+            "nextCheckTime": "1552027500",
+            "managingOrg": "BOTPAR",
+            "lastModifiedBy": "js1799",
+            "lastModifiedDate": "1551448256",
+            "functionalArea": "WIRELESSSVC",
+            "agentId": "CynthiaH",
+            "activeOrg": "BOTPAR-ASC-M2M",
+            "priority": "Medium",
+            "ticketOwner": "Janice S., ASCS-HD",
+            "ticketOpenDate": "1551420699",
+            "colorCodingCSS": "Status_60P-Minutes-Black",
+            "uniqueKey": "VTM000000729488",
+            "categorylist": [
+              null
+            ],
+            "engmnttickelist": [
+              "327329"
+            ],
+            "vTMEngagement": [
+              {
+                "extTicketNo": "327329"
+              }
+            ],
+            "eventType": null,
+            "deploymentType": null,
+            "startDate": null,
+            "endDate": null,
+            "deployCounty": null,
+            "pin": "",
+            "customerFirstName": ""
+          },
+          {
+            "ticketState": "Pending Customer Response",
+            "ticketSource": "EOD",
+            "ticketNum": "VTM000000709026",
+            "severity": "1 - Critical",
+            "problemAbstract": "Missing Billing files from 1/9/2019 to 2/8/2019",
+            "nextCheckTime": "1550173592",
+            "managingOrg": "BOTPAR",
+            "lastModifiedBy": "ms9989",
+            "lastModifiedDate": "1551303668",
+            "functionalArea": "WIRELESSSVC",
+            "agentId": "SR56970",
+            "activeOrg": "BOTPAR-ASC-M2M",
+            "priority": "Medium",
+            "ticketOwner": "Labeach, Hugh",
+            "ticketOpenDate": "1550171792",
+            "colorCodingCSS": "Status_Black-Blink_ASCS",
+            "uniqueKey": "VTM000000709026",
+            "categorylist": [
+              null
+            ],
+            "engmnttickelist": [
+              "327299"
+            ],
+            "vTMEngagement": [
+              {
+                "extTicketNo": "327299"
+              }
+            ],
+            "eventType": null,
+            "deploymentType": null,
+            "startDate": null,
+            "endDate": null,
+            "deployCounty": null,
+            "pin": "",
+            "customerFirstName": ""
+          },
+          {
+            "troubleReported": "1551384650",
+            "ticketState": "Pending Customer Response",
+            "ticketSource": "EOD",
+            "ticketNum": "VTM000000728690",
+            "severity": "3 - Minor",
+            "problemAbstract": "Unable to access the Troubleshooting Device page.",
+            "nextCheckTime": "1551385419",
+            "managingOrg": "BOTPAR",
+            "lastModifiedBy": "CToperations",
+            "lastModifiedDate": "1551449406",
+            "functionalArea": "WIRELESSSVC",
+            "agentId": "CToperations",
+            "activeOrg": "BOTPAR-ASC-M2M",
+            "priority": "Medium",
+            "ticketOwner": "Christie, Kirk",
+            "ticketOpenDate": "1551383619",
+            "colorCodingCSS": "Status_Black-Blink_ASCS",
+            "uniqueKey": "VTM000000728690",
+            "categorylist": [
+              null
+            ],
+            "engmnttickelist": [
+              "327328"
+            ],
+            "vTMEngagement": [
+              {
+                "extTicketNo": "327328"
+              }
+            ],
+            "eventType": null,
+            "deploymentType": null,
+            "startDate": null,
+            "endDate": null,
+            "deployCounty": null,
+            "pin": "",
+            "customerFirstName": ""
+          },
+          {
+            "ticketState": "Pending Customer Response",
+            "ticketSource": "EOD",
+            "ticketNum": "VTM00045850",
+            "severity": "3 - Minor",
+            "problemAbstract": "Circuit Down. Please test",
+            "nextCheckTime": "1485053641",
+            "managingOrg": "BOTPAR",
+            "lastModifiedBy": "NOCTECH",
+            "lastModifiedDate": "1485092444",
+            "functionalArea": "WIRELESSSVC",
+            "agentId": "NOCTECH",
+            "activeOrg": "BOTPAR-MMC",
+            "priority": "Medium",
+            "ticketOwner": "Antonio J., ASCS-HD",
+            "ticketOpenDate": "1485051841",
+            "colorCodingCSS": "Status_Black-Blink_ASCS",
+            "uniqueKey": "VTM00045850",
+            "categorylist": [
+              null
+            ],
+            "engmnttickelist": [
+              "278684"
+            ],
+            "vTMEngagement": [
+              {
+                "extTicketNo": "278684"
+              }
+            ],
+            "eventType": null,
+            "deploymentType": null,
+            "startDate": null,
+            "endDate": null,
+            "deployCounty": null,
+            "pin": "",
+            "customerFirstName": ""
+          },
+          {
+            "ticketState": "Pending Customer Response",
+            "ticketSource": "EOD",
+            "ticketNum": "VTM000000718055",
+            "severity": "3 - Minor",
+            "problemAbstract": "Extremely slow VOIP traffic",
+            "nextCheckTime": "1550770917",
+            "managingOrg": "BOTPAR",
+            "lastModifiedBy": "ef3704",
+            "lastModifiedDate": "1551290713",
+            "functionalArea": "WIRELESSSVC",
+            "agentId": "GMobility",
+            "activeOrg": "BOTPAR-ASC-M2M",
+            "priority": "Medium",
+            "ticketOwner": "Evan F, ASCS-HD",
+            "ticketOpenDate": "1550769117",
+            "colorCodingCSS": "Status_Black-Blink_ASCS",
+            "uniqueKey": "VTM000000718055",
+            "categorylist": [
+              null
+            ],
+            "engmnttickelist": [
+              "327313"
+            ],
+            "vTMEngagement": [
+              {
+                "extTicketNo": "327313"
+              }
+            ],
+            "eventType": null,
+            "deploymentType": null,
+            "startDate": null,
+            "endDate": null,
+            "deployCounty": null,
+            "pin": "",
+            "customerFirstName": ""
+          },
+          {
+            "ticketState": "Pending Customer Response",
+            "ticketSource": "EOD",
+            "ticketNum": "VTM000000723773",
+            "severity": "3 - Minor",
+            "problemAbstract": "Intermittent Comm Issue",
+            "nextCheckTime": "1551127987",
+            "managingOrg": "BOTPAR",
+            "lastModifiedBy": "jc605g",
+            "lastModifiedDate": "1551390594",
+            "functionalArea": "WIRELESSSVC",
+            "agentId": "JNguyen",
+            "activeOrg": "BOTPAR-ASC-M2M",
+            "priority": "Medium",
+            "ticketOwner": "Cano, Jonathan",
+            "ticketOpenDate": "1551126187",
+            "colorCodingCSS": "Status_Black-Blink_ASCS",
+            "uniqueKey": "VTM000000723773",
+            "categorylist": [
+              null
+            ],
+            "engmnttickelist": [
+              "327320"
+            ],
+            "vTMEngagement": [
+              {
+                "extTicketNo": "327320"
+              }
+            ],
+            "eventType": null,
+            "deploymentType": null,
+            "startDate": null,
+            "endDate": null,
+            "deployCounty": null,
+            "pin": "",
+            "customerFirstName": ""
+          }
+        ]
+      } 
+    },
+    "ScreenJson": {
+      "name": "PHENOMKanban",
+      "elementType": "complex",
+      "id": "dvPHENOMKanban",
+      "beanClass": "phenomKanban",
+      "listVarId": "kanbanList",
+      "displayFields": "ticketNum,ticketState,problemAbstract,ticketOwner",
+      "columnField": "ticketState",
+      "defaultFilter": "priority",
+      "defaultSort": "ticketNum",
+      "enableColumnHeader": true,
+      "elements": [
+        {
+          "name": "lblTicketNum",
+          "elementType": "simple",
+          "beanId": "ticketNum",
+          "orientation": "Left",
+          "id": "lblTicketNum",
+          "type": "HtmlOutputLabel",
+          "label": "Ticket Number : ",
+          "description": "Ticket number to display",
+          "elementContainerStyleClass": "",
+          "labelStyleClass": "display_blk black_smallTxt"
+        },
+        {
+          "name": "lblTicketType",
+          "elementType": "simple",
+          "beanId": "ticketState",
+          "orientation": "Left",
+          "id": "lblTicketType",
+          "type": "HtmlOutputLabel",
+          "label": "Ticket Type : ",
+          "description": "Ticket type to display",
+          "elementContainerStyleClass": "",
+          "labelStyleClass": "display_blk black_smallTxt",
+          "hidden": true
+        },
+        {
+          "name": "lblAssetId",
+          "elementType": "simple",
+          "beanId": "problemAbstract",
+          "orientation": "Left",
+          "id": "lblAssetId",
+          "type": "HtmlOutputLabel",
+          "label": "Asset Id : ",
+          "description": "Asset Id",
+          "elementContainerStyleClass": "",
+          "labelStyleClass": "display_blk black_smallTxt"
+        },
+        {
+          "name": "lblWorkQueue",
+          "elementType": "simple",
+          "beanId": "ticketOwner",
+          "orientation": "Left",
+          "id": "lblWorkQueue",
+          "type": "HtmlOutputLabel",
+          "label": "Work Queue : ",
+          "description": "Work Queue",
+          "elementContainerStyleClass": "",
+          "labelStyleClass": "display_blk black_smallTxt",
+          "hidden": true
+        },
+        {
+          "name": "lblAssetType",
+          "elementType": "simple",
+          "beanId": "priority",
+          "orientation": "Left",
+          "id": "lblAssetType",
+          "type": "HtmlOutputLabel",
+          "label": "Asset Type : ",
+          "description": "Asset Type",
+          "elementContainerStyleClass": "",
+          "labelStyleClass": "display_blk black_smallTxt",
+          "hidden": true
+        },
+        {
+          "name": "lblReptSvcLineDescText",
+          "elementType": "simple",
+          "beanId": "managingOrg",
+          "orientation": "Left",
+          "id": "lblReptSvcLineDescText",
+          "type": "HtmlOutputLabel",
+          "label": "Reported Service Line : ",
+          "description": " Reported Service Line",
+          "elementContainerStyleClass": "",
+          "labelStyleClass": "display_blk black_smallTxt",
+          "hidden": true
+        },
+        {
+          "name": "lblSeverity",
+          "elementType": "simple",
+          "beanId": "severity",
+          "orientation": "Left",
+          "id": "lblSeverity",
+          "type": "HtmlOutputLabel",
+          "label": "Severity : ",
+          "description": "Severitye",
+          "elementContainerStyleClass": "",
+          "labelStyleClass": "display_blk black_smallTxt",
+          "hidden": true
+        },
+        {
+          "name": "createdBy",
+          "elementType": "simple",
+          "beanId": "ticketSource",
+          "orientation": "Left",
+          "id": "lnkCreatedBy",
+          "type": "HtmlCommandLink",
+          "description": "CreatedBy",
+          "required": false,
+          "elementContainerStyleClass": "",
+          "beanDataType": "createdBy(String)"
+        }
+      ],
+      "styleClass": ""
+    }     
+  }
+}
