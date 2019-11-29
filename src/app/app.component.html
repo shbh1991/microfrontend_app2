@@ -2,15 +2,18 @@
   <form action="#">
     <div class="form-group">
       <label for="company">Company Name:</label>
-      <input type="text" class="form-control" id="company" [(ngModel)]="company" placeholder="Enter Company Name" name="company">
+      <input type="text" class="form-control" id="company" [(ngModel)]="company" placeholder="Enter Company Name"
+        name="company">
     </div>
     <div class="form-group">
       <label for="contact">Contact Person:</label>
-      <input type="text" class="form-control" id="contact" [(ngModel)]="contact" placeholder="Enter Contact Person" name="contact">
+      <input type="text" class="form-control" id="contact" [(ngModel)]="contact" placeholder="Enter Contact Person"
+        name="contact">
     </div>
     <div class="form-group">
       <label for="country">Country:</label>
-      <input type="text" class="form-control" id="country" [(ngModel)]="country" placeholder="Enter Country Name" name="country">
+      <input type="text" class="form-control" id="country" [(ngModel)]="country" placeholder="Enter Country Name"
+        name="country">
     </div>
     <div class="form-group" *ngIf="isGST">
       <label for="gst">GST Number:</label>

@@ -1,7 +1,8 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ChangeDetectorRef } from '@angular/core';
 import { DataService } from "./services/data-service.service";
 import * as socketIo from 'socket.io-client';
 import '../polyfills';
+import { of } from 'rxjs';
 @Component({
   selector: 'app2-root',
   templateUrl: './app.component.html',
@@ -11,29 +12,29 @@ export class AppComponent implements OnInit {
   title = 'app2';
   // @ts-ignore
   assetsBase = __webpack_public_path__;
-  data = {}; country; contact; company; gst = ""; form: any; id;
-  isGST: boolean = false;
-  constructor(private dataService: DataService) { }
+  data = {}; country; contact; company; form: any; id; isGST: boolean = false; gst = "";
+  constructor(private dataService: DataService, private changeDetectorRef: ChangeDetectorRef) { }
   ngOnInit() {
-    const socket = socketIo('http://10.10.114.97:5555');
-    socket.on('editRecord', (dt) => {
-      this.company = dt.company;
-      this.contact = dt.contact;
-      this.country = dt.country;
-      if (dt.gst) {
+    window.addEventListener("oldData", function (e: CustomEvent) {
+      this.id = e.detail.id;
+      this.country = e.detail.country;
+      this.contact = e.detail.contact;
+      this.company = e.detail.company;
+      if (e.detail.gst) {
         this.isGST = true;
-        this.gst = dt.gst;
+        this.gst = e.detail.gst;
       }
-      this.id = dt.id;
-    });
-    socket.on('addGST', (dt) => {
+      this.changeDetectorRef.detectChanges();
+    }.bind(this));
+    window.addEventListener("addGST", function (e: CustomEvent) {
       this.isGST = true;
-      this.company = dt.company;
-      this.contact = dt.contact;
-      this.country = dt.country;
+      this.id = e.detail.id;
+      this.country = e.detail.country;
+      this.contact = e.detail.contact;
+      this.company = e.detail.company;
       this.gst = "";
-      this.id = dt.id;
-    });
+      this.changeDetectorRef.detectChanges();
+    }.bind(this));
   }
   onSubmit() {
     this.data = {
@@ -41,15 +42,17 @@ export class AppComponent implements OnInit {
       "contact": this.contact,
       "country": this.country,
     }
-    if (this.isGST) {
+    if (this.gst) {
       this.data['gst'] = this.gst;
     }
-    if (this.id) {
+    if (this.id != undefined) {
       this.dataService.updateData(this.id, this.data);
-      this.id = undefined;
+      this.company = "", this.contact = "", this.country = ""; this.id = undefined; this.gst = "";
+      this.isGST = false;
     } else {
       this.dataService.saveData(this.data);
+      this.company = "", this.contact = "", this.country = ""; this.gst = "";
+      this.isGST = false;
     }
-    this.company = "", this.contact = "", this.country = ""; this.gst = ""; this.isGST = false;
   }
 }
